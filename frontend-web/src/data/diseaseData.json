@@ -1,0 +1,191 @@
+{
+  "diseases": {
+    "wheat": {
+      "disease": {
+        "en": "Wheat Rust (Puccinia graminis)",
+        "am": "የስንዴ ዝገት (Puccinia graminis)"
+      },
+      "status": "At Risk",
+      "confidence": "98.4%",
+      "immediate": {
+        "en": "Inspect nearby plots. Quarantine affected rows to prevent airborne spore dispersion.",
+        "am": "የአቅራቢያ ማሳዎችን ይመርምሩ። በአየር የሚተላለፉ ስፖሮች ስርጭትን ለመከላከል የተጎዱትን ረድፎች ለይተው ያስቀምጡ።"
+      },
+      "organic": {
+        "en": "Broadcast compost teas to strengthen general plant immunity; select rust-resistant varieties next season.",
+        "am": "አጠቃላይ የእፅዋትን በሽታ የመከላከል አቅም ለማጠናከር የኮምፖስት ሻይ ይረጩ ፤ በሚቀጥለው የውድድር ዘመን ዝገትን የሚቋቋሙ ዝርያዎችን ይምረጡ።"
+      },
+      "chemical": {
+        "en": "Apply systemic triazole fungicides immediately if rust cover exceeds 5% of leaf area.",
+        "am": "የዝገቱ ሽፋን ከ 5% በላይ ከሆነ ወዲያውኑ የትራይዞል ፈንገስ ማጥፊያዎችን ይተግብሩ።"
+      }
+    },
+    "coffee": {
+      "disease": {
+        "en": "Coffee Berry Disease (Colletotrichum kahawae)",
+        "am": "የቡና ፍሬ በሽታ (Colletotrichum kahawae)"
+      },
+      "status": "Infected",
+      "confidence": "94.1%",
+      "immediate": {
+        "en": "Hand-pick and burn black, mummified berries remaining on the twigs.",
+        "am": "በቅርንጫፎቹ ላይ የቀሩትን ጥቁር እና የደረቁ ፍሬዎችን በእጅ በመልቀም ያቃጥሉ።"
+      },
+      "organic": {
+        "en": "Prune shade trees to open the canopy, allowing sunshine to dry the branches.",
+        "am": "የፀሐይ ብርሃን ቅርንጫፎቹን ለማድረቅ እንዲችል የጥላ ዛፎችን ይቁረጡ።"
+      },
+      "chemical": {
+        "en": "Copper hydroxide spraying every 4 weeks during early rainfall triggers.",
+        "am": "በመጀመሪያው የዝናብ ወቅት በየ 4 ሳምንቱ የኮፐር ሃይድሮክሳይድ ርጭት ያድርጉ።"
+      }
+    },
+    "default": {
+      "disease": {
+        "en": "Maize Leaf Spot (Cercospora zeae-maydis)",
+        "am": "የበቆሎ ቅጠል ነጠብጣብ በሽታ"
+      },
+      "status": "Warning",
+      "confidence": "89.7%",
+      "immediate": {
+        "en": "Remove residue from previous crop seasons; rotate with legumes.",
+        "am": "የቀደሙትን የሰብል ወቅቶች ቅሪቶች ያስወግዱ ፤ ከአተር እና ባቄላ ሰብሎች ጋር በየተራ ይዝሩ።"
+      },
+      "organic": {
+        "en": "Ensure optimal spacing between plants to maximize aeration.",
+        "am": "የአየር ዝውውርን ከፍ ለማድረግ በእፅዋት መካከል ጥሩ ርቀትን ያረጋግጡ።"
+      },
+      "chemical": {
+        "en": "Foliar application of strobilurin-based spray protects early leaf canopy.",
+        "am": "ስትሮቢሉሪን ላይ የተመሰረተ ፈሳሽ በመርጨት ቅጠሉን አስቀድሞ መከላከል ይቻላል።"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Real-time Neural Analysis",
+    "title": {
+      "en": "Identify Crop Diseases with Cloud Precision",
+      "am": "የሰብል በሽታዎችን በደመና ትክክለኛነት ይለዩ"
+    },
+    "description": {
+      "en": "Detect pests, fungal infections, and nutrient deficiencies in seconds. Our AI models are trained on millions of high-resolution agricultural datasets across Ethiopia.",
+      "am": "በሽታዎችን፣ የተባይ ጥቃቶችን እና የአልሚ ምግብ እጥረቶችን በሰከንዶች ውስጥ ይለዩ። የእኛ የ AI ሞዴሎች በመላው ኢትዮጵያ በሚሊዮን በሚቆጠሩ ከፍተኛ ጥራት ባላቸው የግብርና መረጃዎች የሰለጠኑ ናቸው።"
+    },
+    "trustedBy": {
+      "en": "Trusted by 5,000+ local farmers",
+      "am": "ከ 5,000+ በላይ በሆኑ አርሶ አደሮች የታመነ"
+    }
+  },
+  "scanArea": {
+    "idle": {
+      "title": {
+        "en": "Upload Crop Leaf Photo",
+        "am": "የቅጠል ፎቶ ያስገቡ"
+      },
+      "subtitle": {
+        "en": "Select one of our preset templates below to simulate leaf analysis.",
+        "am": "ቅጠልን ለመተንተን ከታች ካሉት አማራጮች አንዱን ይምረጡ።"
+      },
+      "buttons": {
+        "wheat": "Wheat Leaf (Rust Simulation)",
+        "coffee": "Coffee Leaf (CBD Simulation)"
+      }
+    },
+    "scanning": {
+      "title": {
+        "en": "Analyzing Sample...",
+        "am": "ናሙናውን በመተንተን ላይ..."
+      },
+      "subtitle": {
+        "en": "Connecting to AgriEthio Cloud Neural Engine. Comparing patterns...",
+        "am": "ከአግሪ ኢትዮ ደመና የነርቭ ሞዴል ጋር በመገናኘት ላይ። ቅጦችን በማነጻጸር ላይ..."
+      }
+    },
+    "result": {
+      "reportLabel": "DETECTION REPORT",
+      "confidenceLabel": "Confidence Score",
+      "priorityLabel": "Immediate Priority",
+      "treatmentTitle": "Treatment Protocols",
+      "organicTitle": "Organic Recommendation",
+      "chemicalTitle": "Chemical Recommendation",
+      "buttons": {
+        "scanAnother": {
+          "en": "Scan Another Leaf",
+          "am": "ሌላ ቅጠል መርምር"
+        },
+        "save": {
+          "en": "Save Diagnosis",
+          "am": "ምርመራውን አስቀምጥ"
+        }
+      }
+    }
+  },
+  "workflow": {
+    "title": "Simple Diagnostic Workflow",
+    "subtitle": "Our streamlined 3-step process connects ancestral field knowledge with cloud-based diagnostic intelligence.",
+    "steps": [
+      {
+        "icon": "photo_camera",
+        "title": "1. Capture Photo",
+        "description": "Take a clear, well-lit photo of the affected plant part, focusing on lesions or pests."
+      },
+      {
+        "icon": "psychology",
+        "title": "2. AI Analysis",
+        "description": "Our neural networks analyze texture, color, and pattern to identify the specific pathogen."
+      },
+      {
+        "icon": "medical_services",
+        "title": "3. Treatment Plan",
+        "description": "Receive a localized treatment protocol, including organic and chemical recommendations."
+      }
+    ]
+  },
+  "recentScans": {
+    "title": "Recent Field Scans",
+    "subtitle": "Live feed of diagnostic activity across your network.",
+    "viewAll": "View Full History",
+    "items": [
+      {
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdkpEot6KjY7bDlDmyNSXzRWYZS-RZnApH3Vbgn_AvURgG8Wb3VREFSoWKhvelTOtSpJraUpqRmDMrfikQNo1mHdyVSAEx_7ox9Vuxwy5bIsxWYAHa5iJvl72bdWYHeV5TOtGjdS3Ewkg2gOchhoHYfDV6psUmcYneHyBrQHuyQJdzIUkKKnZjqZl1DAQm38j_R7LS7j5y2R0RHCj5UZ_T_ltk7g5ISKLyQ1k7iRa18x2ngefsginUVhjlXAjBMRsou3V75ayY789C",
+        "status": "At Risk",
+        "statusColor": "error",
+        "crop": "Wheat Crop",
+        "scanId": "#8821",
+        "finding": "Wheat Rust Detected",
+        "findingColor": "error",
+        "date": "Oct 24, 2024"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAdCwHWAi6W9dpQcCeW9VH6Z2JjnF0PGQeIuNfoBBE_gNypC0LzWIyBr5HDpLB4O4AQe49bdpZH9q4XYN_fnULJRSOHQIKjqALDkWEt_CtAgxcWQA6nzpb-oCa5lzAVab3fC2usyI8mJf9GhvxrLOV-stW1fKiz1AvJ1SYfeZ_yvwEqP1hVt7hvSGxbMQbCEjuGOHzzYYdypP8vS61kAg4PcBs2FGMnb5B8YTBQIf_3goKi17DOHMrBusqGDrbG-I10awGXOWnal1-y",
+        "status": "Infected",
+        "statusColor": "secondary",
+        "crop": "Coffee Arabica",
+        "scanId": "#8819",
+        "finding": "Coffee Berry Disease",
+        "findingColor": "secondary",
+        "date": "Oct 23, 2024"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5KYYg8gv2_slhjfYG71Z_ViV1AJcTL3Z3S-XDbj9XNfy1rb_-VlwhFuzWbiWCkcAuxM5h3_mvnil3QSuuGxEpuppIYuytjLI5aOalJmJfqXsjuGg4ydkJkg_mqKI1CtimEYhQfJBLSVTm4GevHhAJ3rq9AcL97Bec5BxCq76r0cgB17IqTqqgDUDv8F2Pyjx_KKKX5va8QSYaNrdj_hr0eRTD-ZyEkHMz7m-5MdQal5dcUGu7enq9dndSSCxJr64OibTi_Y2EvohW",
+        "status": "Healthy",
+        "statusColor": "primary",
+        "crop": "Teff Field",
+        "scanId": "#8815",
+        "finding": "Optimal Health",
+        "findingColor": "primary",
+        "date": "Oct 23, 2024"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDjfZNussjO88zSGCEQOKE8iNIrMjN1aYtoGb34EAJeiIQUoM_4LhDRk7Cq8eahzG1Z1Cf2tRDKOKgn5FWMbXaQd43SvLZCyUbPj9NPAgW-Rr0jAGlywmAoSamqqiI1J-mmWAr2zEZEa4oJwVbVFCHIiqnyIeUdzMr_1RshBB8JN6xm_jHkng936x8oCbokaN1YFjvs0xKa5mQqTbAMkXCqdOULp0SeiHXt3H3w0KjHhsX2Ccm8KskTA4eHdxPGyC-CWuyJ3_Koui7I",
+        "status": "Warning",
+        "statusColor": "secondary-container",
+        "crop": "Maize (Corn)",
+        "scanId": "#8812",
+        "finding": "Nitrogen Deficiency",
+        "findingColor": "secondary-fixed-dim",
+        "date": "Oct 22, 2024"
+      }
+    ]
+  }
+}

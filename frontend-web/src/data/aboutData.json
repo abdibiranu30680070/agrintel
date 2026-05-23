@@ -1,0 +1,148 @@
+{
+  "hero": {
+    "backgroundImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuA9fWLxEL_iBa3cBabwEp2ZtT_favw9QG8iKjSBSZtiiwhvPKl0xAg5jQygeqB72HG0683EvKWdHXF9H_0XBnBt6ZchhFjXuilhWYyjf_3vEoTEPErQjHwGk32OBKlW7jm3qYhN5C77lE0DK9KH-XIzqoj0dDqvZXGa8jnh8chVvKOqnnQPD5m6t8y_1rurHgiAeLGQ1L0EkWFlYPs-ISzvkhpBRxVoKp8sUV-tpbELIk-SZOmuQpdRnczyNhRlPpZ6FOqgfPgZTnw",
+    "title": {
+      "en": {
+        "part1": "The Wisdom of the Earth,",
+        "part2": "The Precision of the Cloud."
+      },
+      "am": {
+        "part1": "የምድር ጥበብ፣",
+        "part2": "የክላውድ ትክክለኛነት።"
+      }
+    },
+    "paragraphs": [
+      {
+        "en": "For centuries, Ethiopian agriculture has relied on the deep, intuitive knowledge passed down through generations. Farmers understood the subtle shifts in wind, the color of the soil, and the patterns of the rain. Today, as climate volatility increases and global demands shift, that ancestral wisdom faces unprecedented challenges.",
+        "am": "ለዘመናት የኢትዮጵያ ግብርና ከትውልድ ወደ ትውልድ በሚተላለፈው ጥልቅ እና ተፈጥሯዊ እውቀት ላይ ሲተማመን ቆይቷል። ገበሬዎች የንፋሱን ስውር ለውጦች፣ የአፈሩን ቀለም እና የዝናብ አዝማሚያዎችን ተረድተዋል። ዛሬ፣ የአየር ንብረት መለዋወጥ ሲጨምር እና ዓለም አቀፋዊ ፍላጎቶች ሲቀየሩ፣ ያ የአባቶች ጥበብ ታይቶ ለማይታወቁ ፈተናዎች ተጋልጧል።"
+      },
+      {
+        "en": "AgriIntel Ethiopia was founded on a singular vision: to empower the stewards of our land by bridging the gap between heritage and hyper-modernity. We do not seek to replace the farmer's instinct; we amplify it. By fusing cutting-edge artificial intelligence, continuous satellite telemetry, and localized IoT ground sensors, we translate the language of the earth into actionable digital intelligence.",
+        "am": "አግሪ ኢንቴል ኢትዮጵያ በተነጠለ ራዕይ ላይ ተመስርቷል፡ በቅርስ እና እጅግ ዘመናዊነት መካከል ያለውን ክፍተት በማስተካከል የመሬታችንን ጠባቂዎች ለማበረታታት። የገበሬውን ደመ ነፍስ ለመተካት አንፈልግም፤ እናጎላዋለን። ቆራጥ አርቲፊሻል ኢንተለጀንስን፣ ተከታታይ የሳተላይት ቴሌሜትሪን እና አካባቢያዊ የ IoT የመሬት ዳሳሾችን በማዋሃድ፣ የምድርን ቋንቋ ወደ ተግባራዊ ዲጂታል እውቀት እንተረጉማለን።"
+      },
+      {
+        "en": "Our mission is to digitize Ethiopian agriculture—ensuring food security, optimizing resource allocation for policymakers, and driving sustainable prosperity for both smallholder farmers and large-scale commercial investors across the Horn of Africa.",
+        "am": "ተልእኳችን የኢትዮጵያን ግብርና ዲጂታል ማድረግ ነው—የምግብ ዋስትናን በማረጋገጥ፣ ለፖሊሲ አውጪዎች የሀብት ክፍፍልን በማመቻቸት፣ እና በአፍሪካ ቀንድ ውስጥ ላሉ አነስተኛ አርሶ አደሮች እና ትላልቅ የንግድ ባለሀብቶች ዘላቂ ብልጽግናን ማምጣት ነው።"
+      }
+    ]
+  },
+  "intelligenceEngine": {
+    "sectionTitle": {
+      "en": "The Intelligence Engine",
+      "am": "የእውቀት ሞተሩ"
+    },
+    "sectionSubtitle": {
+      "en": "Our proprietary platform synthesizes massive, multi-modal datasets into intuitive insights.",
+      "am": "የእኛ የባለቤትነት መድረክ ግዙፍ፣ ባለብዙ-ሞዳል የመረጃ ስብስቦችን ወደ ግልጽ ግንዛቤዎች ያዋህዳል።"
+    },
+    "features": [
+      {
+        "id": "satellite",
+        "icon": "satellite_alt",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCwY06sSDCM3e-r0T8m7AAMJ7wIhHbVqrh4HYd_fKsk3Bnf6gwc0eFzwmNVpR5A230i35NRS6UguvFXH4GUOt44-xcdmgt7It2pZxe36tCKB1ixRYXFDNknVT3hNQ8i5y5ILIwfUS82giGZ-IKw-iAAb5WySGipMEYS-bO31wU0AC2jLdBsJ7LOzVt7PQIaog8eiMCnov4Zqtn9-MbN49voaC9F32oV48L_i4LwFnjdIsXYRrUyU_LhuVTcOkBkMLUfwt_az_n4e6U",
+        "title": {
+          "en": "Multispectral Satellite Imaging",
+          "am": "ባለብዙ ስፔክትራል ሳተላይት ምስሎች"
+        },
+        "description": {
+          "en": "Continuous orbital monitoring provides macro-level data on crop health, soil moisture indexing, and large-scale weather pattern prediction, allowing us to anticipate challenges weeks in advance.",
+          "am": "ቀጣይነት ያለው የሳተላይት ክትትል በሰብል ጤና፣ በአፈር እርጥበት መጠን ጠቋሚዎች እና የአየር ሁኔታ ቅጦች ላይ ሰፊ መረጃዎችን ይሰጣል።"
+        }
+      },
+      {
+        "id": "iot",
+        "icon": "sensors",
+        "title": {
+          "en": "Hyper-Local IoT Telemetry",
+          "am": "እጅግ አካባቢያዊ የ IoT መረጃዎች"
+        },
+        "description": {
+          "en": "Deployable micro-sensors measure precise ground conditions—N-P-K levels, root-zone moisture, and ambient temperature—feeding real-time, localized truth into our AI models.",
+          "am": "በመሬት ላይ የሚዘረጉ ጥቃቅን ሴንሰሮች የአፈርን ትክክለኛ ሁኔታዎች (ናይትሮጅን፣ ፎስፈረስ፣ ፖታሺየም፣ እርጥበት እና ሙቀት) በመለካት ወደ AI ሞዴሎቻችን ያስተላልፋሉ።"
+        }
+      },
+      {
+        "id": "ai",
+        "icon": "psychology",
+        "title": {
+          "en": "Machine Learning Yield Prediction",
+          "am": "የወደፊት የምርት ትንበያ ትንተና"
+        },
+        "description": {
+          "en": "By training our neural networks on decades of historical Ethiopian harvest data crossed with current sensory inputs, our models provide highly accurate yield forecasts. This empowers policymakers with reliable food security metrics and allows commercial operations to optimize supply chain logistics before the harvest even begins.",
+          "am": "የነርቭ ኔትወርኮችን በታሪካዊ የኢትዮጵያ ምርት መረጃዎች በማሰልጠን፣ ለህብረት ስራ ማህበራት መሪዎች እና ፖሊሲ አውጪዎች ትክክለኛ የምርት ትንበያዎችን እናቀርባለን።"
+        }
+      }
+    ]
+  },
+  "contactForm": {
+    "title": {
+      "en": "Join the Ecosystem",
+      "am": "ስነ-ምህዳሩን ይቀላቀሉ"
+    },
+    "subtitle": {
+      "en": "Whether you represent an NGO, a government agency, or an ag-tech investor, let's cultivate the future together.",
+      "am": "መንግስታዊ ያልሆነ ድርጅት፣ የመንግስት ኤጀንሲ ወይም የግብርና ቴክኖሎጂ ባለሀብት ይሁኑ፣ የወደፊቱን አብረን እናልማ።"
+    },
+    "fields": {
+      "name": {
+        "label": {
+          "en": "Full Name",
+          "am": "ሙሉ ስም"
+        },
+        "placeholder": {
+          "en": "Enter your name",
+          "am": "ስምዎን ያስገቡ"
+        }
+      },
+      "organization": {
+        "label": {
+          "en": "Organization",
+          "am": "ድርጅት"
+        },
+        "placeholder": {
+          "en": "Your NGO or Company",
+          "am": "የእርስዎ ድርጅት ወይም ኩባንያ"
+        }
+      },
+      "email": {
+        "label": {
+          "en": "Work Email",
+          "am": "የስራ ኢሜይል"
+        },
+        "placeholder": {
+          "en": "name@organization.com",
+          "am": "name@organization.com"
+        }
+      },
+      "message": {
+        "label": {
+          "en": "How can we partner?",
+          "am": "እንዴት አብረን መስራት እንችላለን?"
+        },
+        "placeholder": {
+          "en": "Briefly describe your interest in AgriIntel...",
+          "am": "ስለ አግሪ ኢንቴል ያለዎትን ፍላጎት በአጭሩ ይግለጹ..."
+        }
+      }
+    },
+    "messages": {
+      "success": {
+        "en": "Thank you! Inquiry submitted successfully.",
+        "am": "እናመሰግናለን! ጥያቄዎ በተሳካ ሁኔታ ተልኳል።"
+      },
+      "error": {
+        "en": "Please fill all required fields.",
+        "am": "እባክዎን ሁሉንም አስፈላጊ ቦታዎችን ይሙሉ (ስም፣ ኢሜይል እና መልዕክት)።"
+      },
+      "submitButton": {
+        "en": "Submit Inquiry",
+        "am": "ጥያቄውን ላክ"
+      },
+      "submitting": {
+        "en": "Sending...",
+        "am": "በመላክ ላይ..."
+      }
+    }
+  }
+}

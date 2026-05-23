@@ -1,0 +1,282 @@
+{
+  "initialMessage": {
+    "text": {
+      "en": "Hello! I'm your specialized AI Agronomist for Ethiopian agriculture. How can I help you optimize your harvest today? We have updated soil data for the Oromia and Amhara regions ready for analysis.",
+      "am": "ሰላም! እኔ ለኢትዮጵያ ግብርና የተለየሁ የ AI አግሮኖሚስት ነኝ። ዛሬ ምርትዎን ለማሻሻል እንዴት ልረዳዎ እችላለሁ? ለኦሮሚያ እና አማራ ክልሎች የተሻሻሉ የአፈር መረጃዎችን ለትንተና አዘጋጅተናል።"
+    },
+    "chips": [
+      {
+        "label": {
+          "en": "How to treat coffee leaf rust?",
+          "am": "የቡና ቅጠል ዝገትን እንዴት ማከም ይቻላል?"
+        },
+        "query": "coffee leaf rust"
+      },
+      {
+        "label": {
+          "en": "Best time to plant maize in Oromia?",
+          "am": "በኦሮሚያ በቆሎ ለመትከል የተሻለው ጊዜ መቼ ነው?"
+        },
+        "query": "maize oromia"
+      },
+      {
+        "label": {
+          "en": "Soil pH for Teff",
+          "am": "ለጤፍ ተስማሚ የአፈር ፒኤች (pH)"
+        },
+        "query": "teff ph"
+      },
+      {
+        "label": {
+          "en": "Advanced Yield Prediction",
+          "am": "የላቀ የምርት ትንበያ"
+        },
+        "query": "yield prediction"
+      },
+      {
+        "label": {
+          "en": "Pest control for wheat",
+          "am": "ለስንዴ የቅጂዎች መቆጣጠሪያ"
+        },
+        "query": "wheat pest control"
+      },
+      {
+        "label": {
+          "en": "Irrigation best practices",
+          "am": "የማስተካከል የተሻለ ዘዴዎች"
+        },
+        "query": "irrigation practices"
+      },
+      {
+        "label": {
+          "en": "Fertilizer recommendations",
+          "am": "የንብረት መረጃዎች"
+        },
+        "query": "fertilizer recommendations"
+      },
+      {
+        "label": {
+          "en": "Disease prevention",
+          "am": "የበሽታ መከላከል"
+        },
+        "query": "disease prevention"
+      },
+      {
+        "label": {
+          "en": "Sorghum planting guide",
+          "am": "የሹምብላ መከላያ"
+        },
+        "query": "sorghum planting"
+      },
+      {
+        "label": {
+          "en": "Soil testing methods",
+          "am": "የአፈር ፈተና ዘዴዎች"
+        },
+        "query": "soil testing"
+      },
+      {
+        "label": {
+          "en": "Crop rotation benefits",
+          "am": "የሰብል ማሻሻል ጥቅማት"
+        },
+        "query": "crop rotation"
+      },
+      {
+        "label": {
+          "en": "Weather impact on crops",
+          "am": "የአየር ሁኔታ ስለ ሰብሎች ተጽዕኖ"
+        },
+        "query": "weather impact"
+      }
+    ]
+  },
+  "responses": {
+    "coffee": {
+      "text": {
+        "en": "Based on your interest in Coffee Leaf Rust (Hemileia vastatrix), here is a Cloud-Precision action plan:",
+        "am": "ስለ ቡና ቅጠል ዝገት (Hemileia vastatrix) ላነሱት ጥያቄ፣ የደመና-ትክክለኛነት የድርጊት መርሃ ግብር ይህንን ይመስላል፡"
+      },
+      "action": {
+        "immediate": {
+          "en": "Prune infected branches to improve airflow and reduce humidity within the canopy.",
+          "am": "የአየር ዝውውርን ለማሻሻል እና በቅጠሉ ስር ያለውን እርጥበት ለመቀነስ የተጎዱትን ቅርንጫፎች ይቁረጡ።"
+        },
+        "treatment": {
+          "en": "Apply copper-based fungicides. For organic certification, use neem oil extracts.",
+          "am": "በመዳብ ላይ የተመሰረቱ የፈንገስ ማጥፊያዎችን ይተግብሩ። ለኦርጋኒክ ማረጋገጫ የኒም ዘይት ማምረቻዎችን ይጠቀሙ።"
+        },
+        "ancestral": {
+          "en": "Ensure your shade trees are managed correctly. Excessive shade traps moisture.",
+          "am": "የጥላ ዛፎችዎ በትክክል መያዛቸውን ያረጋግጡ። ከመጠን በላይ ጥላ እርጥበትን ይይዛል።"
+        }
+      }
+    },
+    "maize": {
+      "text": {
+        "en": "Maize planting in Oromia depends closely on the onset of the main rainy season (Kiremt). Optimal periods include mid-April to late-May. Applying urea at 3-4 weeks post-emergence maximizes growth metrics.",
+        "am": "በኦሮሚያ የበቆሎ ተከላ ከዋናው የዝናብ ወቅት (ክረምት) መጀመሪያ ጋር በቅርበት የተሳሰረ ነው። ተስማሚ ጊዜያት ከሚያዝያ አጋማሽ እስከ ግንቦት መጨረሻ ያካትታሉ። ከበቀለ ከ3-4 ሳምንታት በኋላ ዩሪያን መተግበር የእድገት መለኪያዎችን ከፍ ያደርገዋል።"
+      }
+    },
+    "teff": {
+      "text": {
+        "en": "Teff grows best in sandy loam to clay loam soils with a pH range of 5.5 to 6.5. If your soil pH is below 5.0, apply agricultural lime (calcium carbonate) to neutralize soil acidity before broadcasting seeds.",
+        "am": "ጤፍ በቆላማና ደጋማ አካባቢዎች የአፈር ፒኤች (pH) ከ 5.5 እስከ 6.5 በሆነ የአፈር አይነት ላይ በደንብ ያድጋል። የአፈርዎ ፒኤች ከ 5.0 በታች ከሆነ ዘር ከመዝራትዎ በፊት የአፈርን አሲዳማነት ለማስተካከል የግብርና ኖራን ይተግብሩ።"
+      }
+    },
+    "yield": {
+      "text": {
+        "en": "Based on satellite vegetation indices (NDVI) and current moisture levels in your region, we project a 15% increase in your seasonal yield compared to last year's average. Would you like a detailed zone-by-zone breakdown?",
+        "am": "በሳተላይት እፅዋት አመልካቾች (NDVI) እና በክልልዎ ባለው የአሁኑ የእርጥበት መጠን ላይ በመመርኮዝ ካለፈው ዓመት አማካይ ጋር ሲነፃፀር በወቅታዊ ምርትዎ ላይ የ 15% ጭማሪ እንደሚኖር እንተነብያለን። ዝርዝር የዞን በዞን ትንታኔ ይፈልጋሉ?"
+      }
+    },
+    "wheat": {
+      "text": {
+        "en": "For wheat pest control, the most common threats include stem borer, aphids, and armyworm. Integrated Pest Management (IPM) is recommended: monitor pest populations, use resistant varieties when available, and apply biological controls like predatory insects before chemical intervention.",
+        "am": "ለስንዴ የቅጂዎች መቆጣጠሪያ ዋናውን የሚያስፈራቸው አደጋዎች የእግር ቁልፍ ቅጂዎች፣ የአፍሪካ ቅጂዎች እና የጦር ቅጂዎች ናቸው። የተዛመዙ የቅጂ አስተዳደር (IPM) ይመከራል፡ የቅጂዎችን ብዛት ይቆጣጠሩ፣ የተገናኙ ዝርዎችን ይጠቀሙ፣ እና ከኬሚካል ጣልቃ በፊት የተፈጥሮ የቅጂ መቆጣጠሪያዎችን ይጠቀሙ።"
+      },
+      "action": {
+        "immediate": {
+          "en": "Inspect fields weekly for early pest detection. Remove and destroy heavily infested plants.",
+          "am": "ለመጀመሪያ የቅጂ ማግኘት በየሳምንጭ የመስኖችን ይመረም፡ በከፍተኛ የተጎዳቸውን እንደገና ይወግዙ እና ያጠፉ።"
+        },
+        "treatment": {
+          "en": "Use neem oil spray for aphids. For armyworm, apply Bacillus thuringiensis (Bt) as a biological control.",
+          "am": "ለአፍሪካ ቅጂዎች የኒም ዘይት ትርፍ ይጠቀሙ፡ ለጦር ቅጂዎች Bacillus thuringiensis (Bt) እንደ የተፈጥሮ መቆጣጠሪያ ይተግብሩ።"
+        },
+        "ancestral": {
+          "en": "Traditional farmers interplant wheat with legumes to naturally repel pests and improve soil nitrogen.",
+          "am": "ባህላዊ ገበሬዎች ስንዴን ከበጎዎች ጋር አብረው ቅጂዎችን በተፈጥሮ መከላከል እና የአፈርን ናይትሮጂን ለማሻሻል ይሰራሉ።"
+        }
+      }
+    },
+    "irrigation": {
+      "text": {
+        "en": "Optimal irrigation depends on crop growth stage. For most Ethiopian crops, apply 25-30mm of water during critical growth stages (flowering, grain filling). Drip irrigation is most efficient, reducing water use by 40-60% compared to flood irrigation. Early morning or evening irrigation minimizes evaporation loss.",
+        "am": "የተሻለ ማስተካከል የሰብሉ የእድገት ደረጃ ላይ ይመሰርያል፡ ለኢትዮጵያ አብዛኞች ሰብሎች በወራት የእድገት ደረጃዎች (አበዛ፣ የእህል መሙል) 25-30 ሚሊ ሜትር ውሃ ይተግብሩ፡ የነፍስ ማስተካከል ከጎርጎር ማስተካከል በ 40-60% ውሃ ይቆጠባል፡ በጠዋት ወይም በምሽት ማስተካከል የእርጥበት መጠንን ይቀንሳል።"
+      }
+    },
+    "fertilizer": {
+      "text": {
+        "en": "Soil testing is essential before fertilizer application. For Ethiopian highland soils, NPK (Nitrogen-Phosphorus-Potassium) ratios of 4:2:1 are generally recommended. Apply nitrogen at planting and during tillering, phosphorus at planting, and potassium during grain filling. Organic fertilizers (compost, manure) improve soil structure and water retention.",
+        "am": "ንብረት ከመተግበርዎ በፊት የአፈር ፈተና አስፈላጊ ነው፡ ለኢትዮጵያ የተራዘው አፈር NPK (ናይትሮጂን-ፎስፎረስ-ፖታሲየም) በ 4:2:1 መጠን በአጠቃላይ ይመከራል፡ ናይትሮጂን በመከላያ እና በእድገት ጊዜ፣ ፎስፎረስ በመከላያ፣ ፖታሲየም በየእህል መሙል ጊዜ ይተግብሩ፡ ኦርጋኒክ ንብረቶች (ኮምፖስት፣ የእንስት ንብረት) የአፈር አዋቅት እና የውሃ ጥቅምን ያሻሻሉ።"
+      }
+    },
+    "disease": {
+      "text": {
+        "en": "Disease prevention starts with resistant varieties and proper crop rotation. Common Ethiopian crop diseases include wheat rust, maize streak virus, and coffee berry disease. Use certified disease-free seeds, practice field sanitation, maintain proper plant spacing for airflow, and apply preventive fungicides during high-risk periods.",
+        "am": "የበሽታ መከላከል ከተገናኙ ዝርዎች እና ትክክለኛ የሰብል ማሻሻል ይጀምራል፡ የኢትዮጵያ የሰብል በሽታዎች የስንዴ ዝገት፣ የበቆሎ ቫይረስ እና የቡና ቤሪ በሽታ ያካትታሉ፡ የተረጋገጠ የበሽታ-ነፃ ዘሮችን ይጠቀሙ፣ የመስኖ ንጽህፓዊነትን ይተግብሩ፣ ለአየር ዝውውር ትክክለኛ የእንስት ርቀት ይጠብቁ፣ እና በከፍተኛ አደጋ ጊዜ የመከላከል የፈንገስ መድኃኒቶችን ይተግብሩ።"
+      }
+    },
+    "sorghum": {
+      "text": {
+        "en": "Sorghum is drought-tolerant and thrives in warm temperatures (25-35°C). Plant when soil temperature reaches 15°C at 5cm depth. Spacing should be 60-75cm between rows and 15-20cm between plants. Sorghum responds well to nitrogen fertilizer applied at planting and 4-6 weeks after emergence.",
+        "am": "ሹምብላ በደረቃ የሚታፋር እና በሙቀት እስከ 25-35°C ያድጋል፡ የአፈር ሙቀት በ 5 ሴሜ ጥልቅ ሲደርስ 15°C ሲሆን ይከላያል፡ በረድዎች መካከል 60-75 ሴሜ እና በእንስቶች መካከል 15-20 ሴሜ ርቀት ይኖራል፡ ሹምብላ ናይትሮጂን ንብረት በመከላያ እና ከመገለል በኋላ 4-6 ሳምንታት ያስተካካል።"
+      }
+    },
+    "soil": {
+      "text": {
+        "en": "Soil testing should be done every 2-3 years. Key parameters to test include pH, organic matter, nitrogen, phosphorus, potassium, and micronutrients. Sample at 0-20cm depth for most crops, and 20-40cm for deep-rooted crops. Collect 10-15 subsamples per field for accurate results. Local agricultural offices provide affordable soil testing services.",
+        "am": "የአፈር ፈተና በየ 2-3 ዓመታት ይካሄዳል፡ የመፈተኑ ዋናውን መለኪያዎች pH፣ ኦርጋኒክ ነገር፣ ናይትሮጂን፣ ፎስፎረስ፣ ፖታሲየም እና ማይክሮ ንጥሮች ያካትታሉ፡ ለአብዛኞቹ ሰብሎች በ 0-20 ሴሜ ጥልቅ እና ለጥልቅ ሥር ያሉ ሰብሎች በ 20-40 ሴሜ ጥልቅ ይናስቱ፡ ለትክክለኛ ውጤዎች በየአንድ መስኖ 10-15 ንብረቶች ይሰበስቡ፡ የአካባን የግብርና ቢሮዎች በጥቅም ያሉ የአፈር ፈተና አገልግሎት ይሰጣሉ።"
+      }
+    },
+    "rotation": {
+      "text": {
+        "en": "Crop rotation breaks pest and disease cycles, improves soil fertility, and reduces fertilizer dependency. Recommended rotation for Ethiopian smallholders: Year 1 - Cereal (maize/teff), Year 2 - Legume (beans/peas), Year 3 - Vegetable or fallow. Legumes fix nitrogen naturally, reducing need for synthetic fertilizers by 20-30%.",
+        "am": "የሰብል ማሻሻል የቅጂዎችን እና የበሽታዎችን ዑደት ያፋግናል፣ የአፈር እድገትን ያሻሻል፣ እና የንብረት ጥገኝን ይቀንሳል፡ ለኢትዮጵያ ትናንት ገበሬዎች የተመከረ ማሻሻል፡ የ1ኛው ዓመት - የእህል (በቆሎ/ጤፍ)፣ የ2ኛው ዓመት - የበጎ (ባቦና/አተር)፣ የ3ኛው ዓመት - አረሽ ወይም መሸገር፡ በጎዎች ናይትሮጂንን በተፈጥሮ ይሰብስባሉ፣ ይህም የሰንፈን ንብረት ጥገኝን በ 20-30% ይቀንሳል።"
+      }
+    },
+    "weather": {
+      "text": {
+        "en": "Weather patterns in Ethiopia are changing. Use 7-10 day forecasts for critical operations like planting and spraying. Drought early warning systems are available through the National Meteorology Agency. Extreme heat (above 35°C) can cause flower abortion in many crops. Excessive rainfall leads to fungal diseases and nutrient leaching.",
+        "am": "የኢትዮጵያ የአየር ሁኔታ እየቀየረ ነው፡ ለመከላያ እና ለማስተካከል እንደ 7-10 ቀን ትንበያ ይጠቀሙ፡ የደረቃ ጥቅማታዊ ማስጠንቀቂያ ስርዓቶች በብሔራዊ የአየር ትንበያ ኤጀንሲ ይገኛሉ፡ ከፍፁም ሙቀት (ከ 35°C በላይ) ብዙ ሰብሎች አበዛ እንዲሰብር ያደርጋል፡ ከመጠን የዝናዝ ዝናዝ የፈንገስ በሽታዎችን እና የንጥረን ዝርዝርን ያስከትላል።"
+      }
+    },
+    "default": {
+      "text": {
+        "en": "Thank you for consulting AgriIntel. Your request is being analyzed against historical regional telemetry and AI models. I can provide guidance on crop selection, pest management, irrigation, soil health, and yield optimization. Could you please specify which crop, region, or agricultural topic you'd like to focus on?",
+        "am": "አግሪ ኢንቴል ስላማከሩ እናመሰግናለን። ጥያቄዎ ከታሪካዊ የክልል መረጃዎች እና ከ AI ሞዴሎች አንፃር እየተተነተነ ነው። ስለ የሰብል ምርጫ፣ የቅጂ አስተዳደር፣ ማስተካከል፣ የአፈር ጤና እና የምርት ማሻሻል መመሪያ ልሰጥ እንችላለሁ፡ እባክዎን የትኛውን ሰብል፣ ክልል ወይም የግብርና ርዕስ ላይ ማተኮር እንደፈለጉ ሊገልጹልኝ ይችላሉ?"
+      }
+    }
+  },
+  "sidebar": {
+    "title": {
+      "en": "Recent Consults",
+      "am": "የቅርብ ምክሮች"
+    },
+    "history": [
+      { "title": "Teff Rust Management", "desc": "2 hours ago • Debre Zeit" },
+      { "title": "Irrigation Timing", "desc": "Yesterday • Awash Valley" },
+      { "title": "Soil pH Levels", "desc": "Oct 12 • Jimma Highlands" },
+      { "title": "Organic Fertilizers", "desc": "Oct 10 • Arsi Zone" },
+      { "title": "Coffee Pruning Tech", "desc": "Oct 05 • Sidama" }
+    ],
+    "pro": {
+      "title": {
+        "en": "Upgrade to Pro",
+        "am": "ወደ ፕሮ ያሳድጉ"
+      },
+      "desc": {
+        "en": "Unlock satellite imagery and real-time sensor integration.",
+        "am": "የሳተላይት ምስሎችን እና ቀጥተኛ የሴንሰር መረጃዎችን ያግኙ።"
+      },
+      "button": {
+        "en": "Get Started",
+        "am": "ይጀምሩ"
+      }
+    }
+  },
+  "chatArea": {
+    "title": "AgriIntel AI Assistant",
+    "status": "Online • Expert Agronomist",
+    "typing": {
+      "en": "AgriIntel is thinking...",
+      "am": "አግሪ ኢንቴል እያሰበ ነው..."
+    },
+    "inputPlaceholder": {
+      "en": "Ask about crop health, weather, or soil...",
+      "am": "ስለ ሰብል ጤና፣ የአየር ሁኔታ ወይም አፈር ይጠይቁ..."
+    },
+    "disclaimer": "AgriIntel AI can make mistakes. Please verify critical agricultural decisions with your local extension officer.",
+    "actionLabels": {
+      "immediate": "Immediate Action",
+      "treatment": "Treatment"
+    }
+  },
+  "proModal": {
+    "title": {
+      "en": "AgriIntel Pro",
+      "am": "አግሪ ኢንቴል ፕሮ"
+    },
+    "subtitle": {
+      "en": "Unlock advanced satellite analytics and real-time IoT integration.",
+      "am": "የላቀ የሳተላይት ትንተናን እና የቀጥታ IoT ውህደትን ያግኙ።"
+    },
+    "features": [
+      {
+        "en": "Real-time drone imagery analysis",
+        "am": "የቀጥታ ድሮን ምስል ትንተና"
+      },
+      {
+        "en": "Predictive weather modeling (30 days)",
+        "am": "የ30 ቀን የአየር ሁኔታ ትንበያ"
+      },
+      {
+        "en": "Direct API access for smart tractors",
+        "am": "ለስማርት ትራክተሮች ቀጥተኛ API ውህደት"
+      }
+    ],
+    "pricing": {
+      "en": "1,500 Birr / month",
+      "am": "በወር 1,500 ብር"
+    },
+    "button": {
+      "en": "Subscribe Now",
+      "am": "አሁን ይመዝገቡ"
+    },
+    "cancel": {
+      "en": "Maybe Later",
+      "am": "ምናልባት በኋላ"
+    }
+  }
+}

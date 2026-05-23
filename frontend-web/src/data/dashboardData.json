@@ -1,0 +1,144 @@
+{
+  "chartData": [
+    { "day": "Oct 1", "moisture": 30 },
+    { "day": "Oct 5", "moisture": 35 },
+    { "day": "Oct 10", "moisture": 28 },
+    { "day": "Oct 15", "moisture": 42 },
+    { "day": "Oct 20", "moisture": 38 },
+    { "day": "Oct 25", "moisture": 48 },
+    { "day": "Oct 30", "moisture": 42 }
+  ],
+  "header": {
+    "title": {
+      "en": "Farm Overview",
+      "am": "የእርሻ አጠቃላይ እይታ"
+    },
+    "subtitle": {
+      "en": "Real-time insights for your Teff fields.",
+      "am": "ለጤፍ ማሳዎ የእውነተኛ ጊዜ ግንዛቤዎች።"
+    },
+    "lastUpdated": {
+      "en": "Last updated: Today, 08:45 AM",
+      "am": "የመጨረሻው ዝመና: ዛሬ, 08:45 ጠዋት"
+    }
+  },
+  "widgets": {
+    "weather": {
+      "title": {
+        "en": "Weather Forecast",
+        "am": "የአየር ሁኔታ ትንበያ"
+      },
+      "condition": {
+        "en": "Light Rain",
+        "am": "ቀላል ዝናብ"
+      },
+      "precipitationChanceLabel": {
+        "en": "Precipitation Chance",
+        "am": "የዝናብ ዕድል"
+      },
+      "precipitationChanceValue": "85%",
+      "temperatureLabel": {
+        "en": "Temperature",
+        "am": "የሙቀት መጠን"
+      },
+      "temperatureValue": "22°C",
+      "humidityLabel": {
+        "en": "Humidity",
+        "am": "እርጥበት"
+      },
+      "humidityValue": "68%"
+    },
+    "soilHealth": {
+      "title": {
+        "en": "Soil Health",
+        "am": "የአፈር ጤና"
+      },
+      "status": {
+        "en": "Optimal",
+        "am": "ምቹ"
+      },
+      "badge": {
+        "en": "Healthy",
+        "am": "ጤናማ"
+      },
+      "nitrogen": {
+        "label": "Nitrogen (N)",
+        "value": "45 mg/kg"
+      },
+      "ph": {
+        "label": "pH Level",
+        "value": "6.5"
+      }
+    },
+    "yieldPrediction": {
+      "title": {
+        "en": "Est. Yield (Teff)",
+        "am": "የጤፍ ምርት ትንበያ"
+      },
+      "value": "2.4 Tons/Ha",
+      "description": {
+        "en": "Projected increase of +12% compared to last season due to optimized irrigation scheduling.",
+        "am": "በተሻሻለ የመስኖ መርሃ ግብር ምክንያት ካለፈው ወቅት ጋር ሲነፃፀር የ +12% ጭማሪ ይኖራል።"
+      },
+      "button": {
+        "en": "View Analysis",
+        "am": "ትንታኔን ይመልከቱ"
+      }
+    },
+    "assistant": {
+      "title": "AgriIntel AI Assistant",
+      "subtitle": {
+        "en": "Actionable insights for your farm",
+        "am": "ለእርሻዎ ተግባራዊ ግንዛቤዎች"
+      },
+      "placeholder": {
+        "en": "Ask AgriIntel about your farm...",
+        "am": "ስለ እርሻዎ ይጠይቁ..."
+      },
+      "buttons": {
+        "schedule": {
+          "en": "Schedule Irrigation",
+          "am": "መስኖ መርሐግብር ይያዙ"
+        },
+        "dismiss": {
+          "en": "Dismiss",
+          "am": "አሰናብት"
+        }
+      },
+      "messages": {
+        "initial": {
+          "en": "Based on the upcoming dry spell over the next 4 days, irrigation is recommended in 2 days for Field A to maintain optimal soil moisture for the Teff crop.",
+          "am": "በሚቀጥሉት 4 ቀናት ውስጥ በሚመጣው ደረቅ የአየር ሁኔታ ምክንያት፣ ለጤፍ ሰብል ተስማሚ የአፈር እርጥበትን ለመጠበቅ በማሳ ሀ ላይ ከ2 ቀናት በኋላ መስኖ ይመከራል።"
+        },
+        "fertilizerResponse": {
+          "en": "For Field B, applying NPS fertilizer at 100 kg/hectare during the vegetative stage is advised, followed by urea top dressing at 4 weeks.",
+          "am": "ለማሳ ለ፣ በዕድገት ደረጃ ላይ በሄክታር 100 ኪ.ግ NPS ማዳበሪያ እንዲተገብሩ ይመከራል፣ በመቀጠልም በ 4 ኛው ሳምንት ዩሪያ ይረጩ።"
+        },
+        "defaultResponse": {
+          "en": "I am analyzing the soil sensors. The Nitrogen levels in Field B are slightly low. I recommend localized compost application.",
+          "am": "የአፈር ሴንሰሮችን እየተነተንኩ ነው። በማሳ ለ ናይትሮጅን መጠን ዝቅተኛ ነው። የተፈጥሮ ማዳበሪያ እንዲጠቀሙ እመክራለሁ።"
+        }
+      }
+    },
+    "chart": {
+      "title": {
+        "en": "Soil Moisture (30 Days)",
+        "am": "የአፈር እርጥበት ሁኔታ (በ30 ቀናት)"
+      },
+      "subtitle": {
+        "en": "Real-time crop sensors data points mapped across cooperative union Fields.",
+        "am": "በህብረት ስራ ማህበራት ማሳዎች ላይ የተመዘገቡ የቀጥታ የሰብል ዳሳሾች መረጃዎች።"
+      },
+      "footer": {
+        "health": {
+          "en": "Sensor Health: 99.1%",
+          "am": "የሴንሰር ጤና: 99.1%"
+        },
+        "today": {
+          "en": "Today: 42%",
+          "am": "ዛሬ: 42%"
+        }
+      }
+    }
+  }
+}

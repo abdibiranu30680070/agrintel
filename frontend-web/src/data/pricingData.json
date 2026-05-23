@@ -1,0 +1,124 @@
+{
+  "header": {
+    "title": {
+      "en": "AgriIntel Subscriptions",
+      "am": "የአግሪ ኢንቴል ምዝገባዎች"
+    },
+    "subtitle": {
+      "en": "Unlock the full potential of your farm with AI-driven insights, satellite analytics, and direct market access.",
+      "am": "በ AI የተደገፉ ግንዛቤዎች፣ የሳተላይት ትንተና እና ቀጥተኛ የገበያ መዳረሻ በመጠቀም የእርሻዎን ሙሉ አቅም ይክፈቱ።"
+    }
+  },
+  "tiers": [
+    {
+      "id": "free",
+      "name": {
+        "en": "Basic",
+        "am": "መሰረታዊ"
+      },
+      "price": {
+        "en": "Free",
+        "am": "ነፃ"
+      },
+      "period": {
+        "en": "forever",
+        "am": "ለዘላለም"
+      },
+      "description": {
+        "en": "Essential tools for smallholder farmers to get started.",
+        "am": "ለአነስተኛ አርሶ አደሮች ለመጀመር አስፈላጊ መሣሪያዎች።"
+      },
+      "features": [
+        { "en": "Basic Crop Diagnostic Tool", "am": "መሰረታዊ የሰብል ምርመራ መሣሪያ" },
+        { "en": "Community Marketplace Access", "am": "የማህበረሰብ ገበያ መዳረሻ" },
+        { "en": "Standard Weather Updates", "am": "መደበኛ የአየር ሁኔታ መረጃ" }
+      ],
+      "button": {
+        "en": "Current Plan",
+        "am": "የአሁኑ እቅድ"
+      },
+      "theme": "basic"
+    },
+    {
+      "id": "prime",
+      "name": {
+        "en": "AgriIntel Prime",
+        "am": "አግሪ ኢንቴል ፕራይም"
+      },
+      "price": {
+        "en": "850 Birr",
+        "am": "850 ብር"
+      },
+      "period": {
+        "en": "per month",
+        "am": "በወር"
+      },
+      "description": {
+        "en": "Advanced analytics for commercial farmers.",
+        "am": "ለንግድ አርሶ አደሮች የላቀ ትንታኔ።"
+      },
+      "features": [
+        { "en": "Real-time AI Chatbot Consultations", "am": "የቀጥታ AI የቻትቦት ምክሮች" },
+        { "en": "Predictive Weather Modeling (14 days)", "am": "የ14 ቀን የአየር ሁኔታ ትንበያ" },
+        { "en": "Priority Marketplace Listing", "am": "በገበያ ላይ ቅድሚያ የሚሰጠው ዝርዝር" },
+        { "en": "Automated Disease Alerts", "am": "አውቶማቲክ የበሽታ ማንቂያዎች" }
+      ],
+      "button": {
+        "en": "Get Prime",
+        "am": "ፕራይም ያግኙ"
+      },
+      "popular": {
+        "en": "Most Popular",
+        "am": "በጣም ተወዳጅ"
+      },
+      "theme": "prime"
+    },
+    {
+      "id": "golden",
+      "name": {
+        "en": "AgriIntel Golden",
+        "am": "አግሪ ኢንቴል ጎልደን"
+      },
+      "price": {
+        "en": "1,500 Birr",
+        "am": "1,500 ብር"
+      },
+      "period": {
+        "en": "per month",
+        "am": "በወር"
+      },
+      "description": {
+        "en": "The ultimate enterprise solution with IoT & Satellite integrations.",
+        "am": "የመጨረሻው የኢንተርፕራይዝ መፍትሄ ከ IoT እና የሳተላይት ውህደቶች ጋር።"
+      },
+      "features": [
+        { "en": "All Prime Features", "am": "ሁሉም የፕራይም ባህሪዎች" },
+        { "en": "Real-time Drone & Satellite Imagery", "am": "የቀጥታ የድሮን እና የሳተላይት ምስሎች" },
+        { "en": "Direct API for Smart Tractors", "am": "ለስማርት ትራክተሮች ቀጥተኛ API" },
+        { "en": "Advanced Yield Prediction Models", "am": "የላቀ የምርት ትንበያ ሞዴሎች" },
+        { "en": "Dedicated Agronomist Support", "am": "የተለየ የግብርና ባለሙያ ድጋፍ" }
+      ],
+      "button": {
+        "en": "Go Golden",
+        "am": "ጎልደን ያግኙ"
+      },
+      "theme": "golden"
+    }
+  ],
+  "faq": {
+    "title": {
+      "en": "Frequently Asked Questions",
+      "am": "ተደጋግሞ የሚነሱ ጥያቄዎች"
+    },
+    "questions": [
+      {
+        "q": { "en": "Can I cancel my subscription anytime?", "am": "ምዝገባዬን በማንኛውም ጊዜ መሰረዝ እችላለሁ?" },
+        "a": { "en": "Yes, you can cancel or downgrade your plan at any time without any hidden fees.", "am": "አዎ፣ ያለምንም የተደበቀ ክፍያ በማንኛውም ጊዜ እቅድዎን መሰረዝ ወይም ዝቅ ማድረግ ይችላሉ።" }
+      },
+      {
+        "q": { "en": "How do I pay for Prime or Golden?", "am": "ለፕራይም ወይም ለጎልደን እንዴት መክፈል እችላለሁ?" },
+        "a": { "en": "We accept Telebirr, CBE Birr, and major credit cards directly through the app.", "am": "ቴሌብርን፣ ሲቢኢ ብርን እና ዋና ዋና የብድር ካርዶችን በመተግበሪያው በኩል በቀጥታ እንቀበላለን።" }
+      }
+    ]
+  }
+}

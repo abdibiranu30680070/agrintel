@@ -1,0 +1,551 @@
+region,soil_type,land_size,season,rainfall_mm,crop
+Gambella,Red soil,6.089517356184578,Winter,681,Teff
+Sidama,Black soil,8.178309269934074,Spring,1239,Teff
+Oromia,Sandy,1.3939295338306787,Spring,941,Maize
+Amhara,Volcanic,5.030595836751584,Spring,853,Maize
+Southern,Red soil,5.968867446617608,Winter,1456,Barley
+Afar,Sandy,6.585573393059388,Winter,279,Sorghum
+Oromia,Sandy,8.529221591701257,Spring,651,Barley
+Afar,Sandy,2.266256251522412,Winter,338,Sorghum
+Southern,Volcanic,1.3178287172580627,Summer,1489,Coffee
+Somali,Sandy,9.556188693559157,Winter,293,Sorghum
+Amhara,Red soil,2.1049047380460566,Spring,605,Barley
+Gambella,Sandy,6.319989744839281,Spring,421,Teff
+Gambella,Volcanic,1.5094473417189676,Summer,543,Barley
+Afar,Sandy,7.500195494028788,Summer,304,Sorghum
+Amhara,Black soil,2.1177687624928185,Spring,897,Teff
+Tigray,Red soil,4.235633740067325,Winter,539,Maize
+Sidama,Red soil,8.352567541562484,Winter,1157,Barley
+Afar,Sandy,1.6518633487220729,Winter,342,Sorghum
+Tigray,Volcanic,0.5604309749084864,Spring,498,Maize
+Southern,Black soil,2.8097386689893495,Winter,1001,Teff
+Oromia,Black soil,4.845664570983182,Spring,617,Maize
+Benishangul,Sandy,6.023530590733806,Winter,933,Maize
+Afar,Sandy,7.272763364213582,Summer,352,Sorghum
+Tigray,Red soil,7.243134144567968,Summer,855,Maize
+Oromia,Black soil,0.6891762034429707,Winter,632,Maize
+Oromia,Sandy loam,3.4437031977600236,Spring,685,Maize
+Benishangul,Black soil,8.202613170617148,Summer,903,Teff
+Somali,Sandy,9.406213123122637,Winter,303,Sorghum
+Tigray,Sandy loam,7.181038853171977,Summer,636,Maize
+Gambella,Volcanic,6.333154914775757,Winter,587,Maize
+Oromia,Volcanic,2.1998353023529917,Winter,534,Barley
+Amhara,Black soil,1.5402913563467755,Summer,592,Barley
+Oromia,Sandy loam,8.622777123836787,Summer,743,Maize
+Southern,Black soil,2.2625521414344574,Spring,1012,Teff
+Amhara,Sandy,0.5845233852294516,Winter,584,Maize
+Southern,Red soil,6.599199566492397,Winter,1141,Maize
+Amhara,Black soil,5.7530542631115065,Spring,632,Teff
+Benishangul,Black soil,2.041715900860407,Spring,442,Teff
+Benishangul,Sandy,2.251928467811902,Winter,547,Barley
+Somali,Sandy,6.728519427491499,Spring,153,Sorghum
+Tigray,Sandy,7.74964041806573,Spring,801,Maize
+Benishangul,Sandy loam,6.393113173046338,Winter,466,Maize
+Tigray,Red soil,1.239365520215581,Winter,477,Maize
+Oromia,Volcanic,9.763714941202071,Spring,679,Teff
+Somali,Sandy,8.51760964141761,Summer,292,Sorghum
+Tigray,Sandy,7.862896309414411,Winter,705,Barley
+Tigray,Volcanic,8.384577094383843,Winter,584,Teff
+Southern,Black soil,1.7599865396205039,Spring,1370,Maize
+Benishangul,Red soil,9.820760050375421,Spring,715,Maize
+Oromia,Black soil,7.335109009228173,Summer,860,Teff
+Tigray,Black soil,7.201592814107261,Winter,987,Teff
+Amhara,Volcanic,6.572552491887819,Spring,815,Maize
+Benishangul,Sandy loam,6.259560832057232,Winter,972,Teff
+Sidama,Red soil,5.238562432656547,Winter,1398,Maize
+Benishangul,Clay loam,4.576585395586207,Winter,517,Wheat
+Southern,Black soil,6.050896146288936,Spring,1377,Barley
+Afar,Sandy,8.51309641216364,Summer,319,Sorghum
+Oromia,Volcanic,2.311549125489484,Winter,779,Teff
+Amhara,Sandy loam,4.2805986439208645,Summer,710,Maize
+Tigray,Sandy loam,7.81685188317689,Spring,601,Maize
+Amhara,Black soil,7.65687539228862,Winter,424,Barley
+Somali,Sandy,4.424255548430205,Spring,158,Sorghum
+Amhara,Volcanic,9.721394999082428,Spring,951,Teff
+Southern,Volcanic,8.509652040182083,Spring,1297,Coffee
+Sidama,Black soil,1.0003794754602324,Winter,1446,Barley
+Benishangul,Black soil,9.242085625588127,Winter,973,Teff
+Southern,Black soil,9.450821291685399,Spring,1383,Barley
+Somali,Sandy,4.951847864269354,Spring,247,Sorghum
+Afar,Sandy,5.209607816537662,Summer,337,Sorghum
+Afar,Sandy,4.478870747614572,Spring,365,Sorghum
+Afar,Sandy,3.182802333170309,Spring,349,Sorghum
+Oromia,Sandy,3.1921457827253974,Spring,531,Barley
+Sidama,Volcanic,7.5213148995824906,Spring,1277,Coffee
+Southern,Black soil,0.7223666105838078,Summer,1234,Teff
+Somali,Sandy,6.151005809007067,Summer,151,Sorghum
+Benishangul,Sandy loam,3.4055807064469756,Spring,599,Maize
+Somali,Sandy,7.916841979139411,Winter,355,Sorghum
+Sidama,Volcanic,2.198389721901096,Spring,1449,Coffee
+Gambella,Sandy,4.327235213948976,Winter,739,Teff
+Amhara,Red soil,1.8181609693490364,Summer,828,Maize
+Afar,Sandy,5.812317382143093,Winter,321,Sorghum
+Oromia,Sandy,5.453377835726971,Summer,530,Teff
+Sidama,Black soil,7.980898109116588,Winter,1356,Teff
+Sidama,Black soil,8.772040815342358,Winter,1000,Teff
+Gambella,Black soil,4.223968794855326,Summer,936,Teff
+Tigray,Clay loam,3.5315010934055304,Summer,626,Wheat
+Somali,Sandy,4.375174969898058,Spring,228,Sorghum
+Afar,Sandy,5.562269245070702,Winter,315,Sorghum
+Oromia,Black soil,7.708255751140333,Summer,567,Barley
+Benishangul,Red soil,0.8103736165200255,Winter,532,Barley
+Amhara,Volcanic,2.7162524506772803,Spring,745,Teff
+Somali,Sandy,3.1066241881739467,Summer,297,Sorghum
+Gambella,Volcanic,0.5432730794048326,Spring,682,Barley
+Southern,Volcanic,5.91560714847614,Spring,1215,Coffee
+Afar,Sandy,7.780119167037931,Summer,211,Sorghum
+Sidama,Red soil,6.338781565033215,Spring,1068,Maize
+Gambella,Sandy loam,3.558341067336599,Winter,551,Maize
+Gambella,Volcanic,4.568739885528107,Spring,893,Barley
+Benishangul,Black soil,0.7217221836579941,Winter,576,Maize
+Benishangul,Sandy,9.795568855346303,Spring,424,Barley
+Oromia,Black soil,6.717555960987478,Summer,572,Teff
+Southern,Red soil,2.6609960186908372,Summer,1205,Maize
+Gambella,Sandy,2.711189338161913,Summer,665,Barley
+Southern,Volcanic,5.498212391125492,Winter,1078,Teff
+Somali,Sandy,9.78899696375268,Summer,172,Sorghum
+Tigray,Red soil,1.7273955323052212,Winter,725,Teff
+Southern,Red soil,4.9522433380653545,Spring,1241,Barley
+Southern,Volcanic,8.639397488784919,Summer,1316,Coffee
+Sidama,Red soil,7.647291395952329,Winter,1138,Teff
+Tigray,Sandy loam,1.8448689574069317,Spring,731,Maize
+Somali,Sandy,7.8366580399026535,Winter,352,Sorghum
+Amhara,Red soil,4.500244140510397,Summer,459,Maize
+Sidama,Red soil,3.146035612768554,Winter,1349,Maize
+Amhara,Sandy loam,5.365417899154975,Winter,995,Barley
+Tigray,Clay loam,3.294613604507452,Spring,486,Wheat
+Southern,Red soil,6.327241819331219,Summer,1313,Barley
+Oromia,Volcanic,1.2343370999300274,Winter,917,Barley
+Sidama,Red soil,1.2269296842273607,Spring,1496,Teff
+Amhara,Volcanic,1.3114267174409815,Summer,480,Maize
+Afar,Sandy,6.977716064866893,Winter,206,Sorghum
+Somali,Sandy,1.6432764781411247,Spring,264,Sorghum
+Tigray,Sandy,8.03702341491453,Winter,925,Teff
+Southern,Red soil,3.2306576907238713,Spring,1336,Teff
+Oromia,Clay loam,7.420640157395372,Winter,784,Maize
+Oromia,Volcanic,0.7018534728594261,Summer,447,Teff
+Amhara,Sandy,9.707165344962418,Spring,899,Maize
+Amhara,Clay loam,9.15427017269978,Summer,541,Wheat
+Somali,Sandy,6.56005756606416,Spring,185,Sorghum
+Afar,Sandy,4.251859231537466,Winter,358,Sorghum
+Gambella,Sandy,3.4554945797261247,Summer,763,Maize
+Afar,Sandy,4.909280198159715,Winter,359,Sorghum
+Gambella,Clay loam,8.118963050057115,Winter,947,Teff
+Somali,Sandy,1.3072881041547075,Summer,222,Sorghum
+Tigray,Black soil,5.622993808364148,Winter,504,Barley
+Afar,Sandy,9.923473135243743,Spring,164,Sorghum
+Sidama,Black soil,5.792094495704084,Winter,1115,Maize
+Somali,Sandy,2.5750873843660496,Summer,153,Sorghum
+Afar,Sandy,2.239068005762179,Spring,321,Sorghum
+Afar,Sandy,0.9043661372802836,Summer,217,Sorghum
+Tigray,Black soil,9.405084430921468,Winter,425,Barley
+Oromia,Sandy,0.5014600293370564,Summer,729,Maize
+Tigray,Sandy loam,1.6468103673300991,Summer,706,Maize
+Tigray,Sandy loam,2.4572124675152947,Spring,532,Maize
+Tigray,Sandy loam,1.4917381164687677,Spring,963,Teff
+Tigray,Sandy,5.219621518551758,Spring,606,Barley
+Benishangul,Sandy loam,8.628103887840659,Spring,670,Maize
+Southern,Volcanic,5.882883608722553,Winter,1419,Coffee
+Tigray,Clay loam,8.06801173586829,Summer,566,Wheat
+Somali,Sandy,5.387787844346247,Winter,324,Sorghum
+Sidama,Red soil,7.265723320647635,Spring,1160,Barley
+Afar,Sandy,7.5219635179368565,Summer,328,Sorghum
+Southern,Red soil,1.3306125305590701,Spring,1344,Maize
+Sidama,Black soil,4.516485268480359,Winter,1363,Barley
+Tigray,Sandy,8.24913040688532,Winter,613,Maize
+Benishangul,Sandy loam,1.1934735081195456,Spring,464,Teff
+Amhara,Red soil,3.728575009111776,Summer,481,Barley
+Gambella,Black soil,8.309366893802684,Summer,782,Teff
+Afar,Sandy,0.5419974981842415,Spring,242,Sorghum
+Somali,Sandy,7.721656767594779,Spring,224,Sorghum
+Afar,Sandy,6.149528914983281,Winter,389,Sorghum
+Amhara,Sandy,9.788463640167036,Winter,630,Maize
+Somali,Sandy,4.490635122045394,Summer,236,Sorghum
+Benishangul,Volcanic,3.02177157680022,Summer,881,Teff
+Gambella,Sandy loam,8.248111688924372,Summer,570,Maize
+Southern,Black soil,8.471939583575303,Spring,1390,Maize
+Tigray,Volcanic,5.749027479563033,Summer,934,Maize
+Sidama,Black soil,8.722436385727919,Summer,1376,Teff
+Gambella,Volcanic,3.6416157402602147,Summer,900,Teff
+Tigray,Volcanic,4.627271883053791,Winter,715,Teff
+Afar,Sandy,2.1514444653557954,Winter,285,Sorghum
+Sidama,Red soil,6.3941945783519385,Winter,1252,Barley
+Southern,Red soil,2.8329490699050024,Spring,1454,Teff
+Somali,Sandy,6.1975211312190455,Winter,241,Sorghum
+Tigray,Sandy,3.302261548628427,Summer,531,Maize
+Amhara,Volcanic,1.867825272437169,Spring,717,Maize
+Tigray,Volcanic,9.84072010195635,Spring,508,Barley
+Tigray,Sandy loam,0.7277260099106335,Summer,534,Maize
+Sidama,Black soil,6.485941287433064,Spring,1160,Barley
+Oromia,Red soil,2.2560622662935588,Winter,533,Barley
+Somali,Sandy,4.814413818425479,Spring,279,Sorghum
+Gambella,Sandy,6.521882795594835,Winter,831,Teff
+Southern,Volcanic,7.715219802689513,Summer,1461,Coffee
+Amhara,Volcanic,1.2450881306938106,Winter,592,Maize
+Amhara,Volcanic,6.1825729469267205,Winter,657,Teff
+Amhara,Volcanic,9.100705099485461,Spring,698,Teff
+Sidama,Black soil,2.4655925414743893,Summer,1409,Maize
+Tigray,Sandy,2.1245444620013414,Winter,888,Maize
+Afar,Sandy,1.0031894795481335,Winter,284,Sorghum
+Sidama,Red soil,7.564816217071647,Summer,1251,Barley
+Benishangul,Sandy,1.6058619195293542,Summer,750,Teff
+Tigray,Black soil,8.691520825507352,Winter,770,Teff
+Oromia,Volcanic,9.01180802413835,Summer,614,Teff
+Southern,Black soil,1.4025665487248995,Summer,1217,Barley
+Amhara,Black soil,1.049295130594804,Winter,954,Teff
+Southern,Red soil,8.63591679557121,Summer,1427,Barley
+Amhara,Sandy loam,6.998532679893114,Summer,673,Maize
+Afar,Sandy,7.682768471375017,Spring,179,Sorghum
+Amhara,Sandy,6.620101048828023,Summer,827,Maize
+Somali,Sandy,1.5703817762823282,Spring,258,Sorghum
+Benishangul,Sandy loam,4.515026576480975,Spring,566,Maize
+Sidama,Red soil,7.256710472633267,Spring,1087,Barley
+Somali,Sandy,7.301958447044408,Summer,354,Sorghum
+Afar,Sandy,7.325417275959722,Summer,180,Sorghum
+Sidama,Volcanic,3.1965497973902974,Summer,1444,Coffee
+Southern,Volcanic,2.9504787865841,Summer,1240,Coffee
+Southern,Black soil,7.833576729028481,Summer,1378,Teff
+Southern,Black soil,8.10770542482836,Spring,1286,Teff
+Tigray,Clay loam,7.507600467021988,Winter,438,Wheat
+Sidama,Red soil,3.557312238938203,Spring,1041,Barley
+Amhara,Volcanic,4.333947620460826,Winter,870,Teff
+Afar,Sandy,3.35802631199115,Winter,256,Sorghum
+Southern,Volcanic,9.916749304964,Winter,1316,Coffee
+Oromia,Black soil,7.5883698283188075,Winter,614,Maize
+Somali,Sandy,6.105497235392618,Summer,304,Sorghum
+Oromia,Sandy,9.435497797829898,Summer,904,Teff
+Gambella,Clay loam,9.462357964224365,Winter,884,Barley
+Gambella,Black soil,5.522340950503783,Spring,869,Teff
+Southern,Volcanic,7.618255741680555,Winter,1259,Coffee
+Afar,Sandy,8.86136399321895,Spring,196,Sorghum
+Afar,Sandy,5.169865892333614,Summer,299,Sorghum
+Oromia,Volcanic,6.793986969629893,Summer,541,Teff
+Amhara,Volcanic,1.9341030974631437,Spring,828,Maize
+Sidama,Black soil,5.5298934165677025,Summer,1226,Maize
+Benishangul,Red soil,6.789672311255136,Winter,722,Teff
+Afar,Sandy,5.039963989990261,Spring,262,Sorghum
+Afar,Sandy,1.8493522944453007,Winter,289,Sorghum
+Afar,Sandy,1.3469703140905425,Summer,312,Sorghum
+Amhara,Red soil,1.2756267695094734,Summer,584,Maize
+Amhara,Red soil,5.790463852593717,Spring,471,Maize
+Afar,Sandy,9.045870668934375,Summer,243,Sorghum
+Southern,Volcanic,5.646811137217692,Spring,1427,Coffee
+Southern,Volcanic,0.5149191767639241,Spring,1238,Coffee
+Gambella,Clay loam,8.088547319971447,Spring,978,Maize
+Southern,Red soil,1.6483115107522202,Spring,1272,Teff
+Somali,Sandy,4.752964481402704,Spring,345,Sorghum
+Gambella,Clay loam,9.398329961894737,Winter,729,Maize
+Afar,Sandy,8.35491961281271,Spring,252,Sorghum
+Southern,Black soil,9.970293788756788,Spring,1439,Maize
+Benishangul,Black soil,8.11819184145267,Summer,676,Maize
+Somali,Sandy,4.839743599177355,Spring,172,Sorghum
+Oromia,Clay loam,3.394473859062353,Spring,789,Teff
+Oromia,Sandy,3.1529311073538806,Spring,405,Maize
+Afar,Sandy,4.270089966210252,Spring,354,Sorghum
+Southern,Black soil,9.003869489421664,Summer,1098,Teff
+Southern,Black soil,1.3652663266043406,Winter,1214,Barley
+Southern,Red soil,3.4867507356766754,Winter,1031,Barley
+Somali,Sandy,2.3223282038912525,Winter,238,Sorghum
+Oromia,Volcanic,2.0202288057425557,Spring,572,Maize
+Sidama,Black soil,7.948892414155602,Winter,1010,Teff
+Southern,Red soil,4.83783101911802,Summer,1175,Maize
+Gambella,Volcanic,7.988711702000639,Winter,795,Barley
+Somali,Sandy,2.696335533358171,Summer,202,Sorghum
+Southern,Black soil,8.749284811678748,Spring,1297,Teff
+Tigray,Sandy,6.611259967061016,Winter,969,Barley
+Somali,Sandy,7.370210988634847,Winter,329,Sorghum
+Oromia,Sandy loam,7.076781940634329,Summer,792,Maize
+Benishangul,Red soil,6.603596220141046,Spring,704,Barley
+Afar,Sandy,7.120359057073925,Spring,264,Sorghum
+Sidama,Red soil,1.3078071373784383,Spring,1395,Maize
+Afar,Sandy,2.224766856872358,Winter,393,Sorghum
+Sidama,Red soil,0.9714335212560583,Winter,1103,Maize
+Somali,Sandy,5.8564128005374725,Spring,368,Sorghum
+Gambella,Clay loam,9.625054541701996,Spring,656,Wheat
+Oromia,Clay loam,3.4711281322972405,Spring,650,Wheat
+Tigray,Sandy,4.735455577345753,Spring,439,Maize
+Sidama,Red soil,2.072619477721973,Spring,1162,Teff
+Afar,Sandy,8.375295982674311,Spring,163,Sorghum
+Benishangul,Clay loam,5.497501538522974,Spring,996,Maize
+Gambella,Volcanic,3.8388333439633424,Winter,867,Barley
+Afar,Sandy,1.8908623847764698,Spring,212,Sorghum
+Sidama,Black soil,5.781304813842589,Summer,1324,Teff
+Southern,Red soil,3.931113069988678,Summer,1079,Teff
+Sidama,Red soil,9.19241320340184,Summer,1495,Maize
+Tigray,Volcanic,8.225756000760416,Summer,601,Maize
+Benishangul,Sandy loam,3.5107847179801888,Summer,499,Barley
+Gambella,Sandy loam,4.96255780113276,Summer,850,Maize
+Afar,Sandy,7.377858307822718,Summer,361,Sorghum
+Sidama,Black soil,7.134183711660192,Summer,1030,Teff
+Oromia,Volcanic,2.352987411663516,Winter,579,Teff
+Sidama,Black soil,0.6427686314078054,Summer,1156,Barley
+Oromia,Sandy,4.6001257345111295,Summer,468,Maize
+Amhara,Volcanic,1.586558051353319,Summer,803,Barley
+Afar,Sandy,7.820089964439366,Winter,321,Sorghum
+Benishangul,Sandy,6.63759689491576,Spring,785,Teff
+Gambella,Sandy,7.699916431987985,Winter,701,Teff
+Gambella,Volcanic,8.846399495855485,Summer,922,Maize
+Tigray,Black soil,6.7627003670235135,Winter,666,Maize
+Tigray,Clay loam,4.936871150570325,Summer,483,Wheat
+Gambella,Sandy loam,0.9001307076463485,Winter,962,Barley
+Amhara,Black soil,0.843909772163998,Winter,778,Teff
+Somali,Sandy,2.6055664399890825,Spring,242,Sorghum
+Benishangul,Sandy,5.09310932058826,Winter,697,Maize
+Oromia,Volcanic,7.782114977291738,Winter,711,Barley
+Oromia,Sandy,9.953508730650185,Spring,610,Teff
+Benishangul,Black soil,9.4081476399641,Spring,458,Maize
+Southern,Black soil,3.9309063970111304,Winter,1046,Teff
+Tigray,Sandy loam,8.717495277879737,Summer,911,Barley
+Amhara,Sandy,6.595944944845783,Summer,437,Teff
+Afar,Sandy,5.2621431353801595,Summer,219,Sorghum
+Gambella,Red soil,0.5082242224246646,Winter,673,Maize
+Oromia,Red soil,6.7215113851148205,Winter,515,Maize
+Benishangul,Clay loam,3.50773553755538,Winter,833,Barley
+Sidama,Black soil,4.439329928020209,Spring,1411,Teff
+Amhara,Sandy,4.531224124295031,Summer,551,Teff
+Southern,Red soil,3.372741860172356,Winter,1005,Teff
+Tigray,Black soil,3.646616565544658,Winter,463,Barley
+Tigray,Red soil,0.5949783949921253,Winter,528,Maize
+Oromia,Clay loam,2.9066404540052884,Summer,900,Maize
+Somali,Sandy,6.721388907850725,Spring,341,Sorghum
+Afar,Sandy,2.3905118628138413,Spring,167,Sorghum
+Southern,Red soil,7.311976281892741,Spring,1376,Teff
+Afar,Sandy,4.726915374768622,Summer,393,Sorghum
+Afar,Sandy,6.228497046485337,Winter,296,Sorghum
+Afar,Sandy,2.8120218187897046,Summer,224,Sorghum
+Gambella,Red soil,1.1810906418155867,Spring,599,Maize
+Tigray,Sandy,9.563834654439212,Winter,694,Teff
+Amhara,Sandy loam,9.117446222648688,Winter,404,Teff
+Somali,Sandy,4.800356260997872,Summer,179,Sorghum
+Benishangul,Clay loam,2.3051825131257435,Summer,579,Wheat
+Benishangul,Black soil,5.525046927139694,Spring,752,Teff
+Oromia,Volcanic,9.76548764186849,Summer,776,Barley
+Tigray,Red soil,9.323051747339134,Summer,691,Teff
+Afar,Sandy,4.47551533743931,Summer,201,Sorghum
+Tigray,Volcanic,3.5024376480715294,Spring,873,Teff
+Sidama,Red soil,6.022658429761544,Spring,1195,Maize
+Sidama,Volcanic,2.910328027125652,Spring,1437,Coffee
+Amhara,Sandy loam,5.6174971894883505,Spring,868,Maize
+Amhara,Volcanic,0.9951038248873929,Summer,486,Teff
+Tigray,Sandy loam,4.751691497767599,Summer,947,Maize
+Tigray,Clay loam,9.404231044894047,Spring,565,Wheat
+Afar,Sandy,8.335450683316138,Winter,214,Sorghum
+Sidama,Volcanic,6.854360336586102,Spring,1451,Coffee
+Sidama,Volcanic,1.373414774344261,Winter,1342,Coffee
+Tigray,Sandy loam,7.572024380370783,Summer,715,Maize
+Somali,Sandy,1.8484475718525217,Spring,265,Sorghum
+Gambella,Clay loam,8.555451217862656,Spring,699,Wheat
+Gambella,Sandy,9.404466862989239,Winter,622,Teff
+Tigray,Sandy,9.896423043711778,Winter,537,Barley
+Somali,Sandy,0.6982714376597356,Winter,169,Sorghum
+Somali,Sandy,6.759230698675567,Spring,330,Sorghum
+Southern,Black soil,2.5980536047799205,Winter,1436,Maize
+Benishangul,Sandy,5.245108102850304,Spring,655,Teff
+Tigray,Sandy loam,1.481202525904419,Spring,849,Maize
+Afar,Sandy,9.982831492305515,Summer,156,Sorghum
+Somali,Sandy,6.0611494147059055,Winter,169,Sorghum
+Afar,Sandy,5.468411878380316,Winter,330,Sorghum
+Oromia,Clay loam,8.072358714426297,Spring,512,Wheat
+Benishangul,Black soil,7.537680714884092,Summer,626,Maize
+Gambella,Sandy loam,3.0271588584857536,Spring,776,Maize
+Southern,Volcanic,4.560962240564861,Summer,1368,Coffee
+Benishangul,Black soil,1.964423338416788,Summer,683,Teff
+Sidama,Red soil,7.535919038605864,Summer,1497,Teff
+Oromia,Volcanic,3.1412955497630666,Summer,534,Maize
+Afar,Sandy,7.971258477519267,Spring,203,Sorghum
+Amhara,Sandy loam,0.9831442275803153,Summer,977,Teff
+Southern,Black soil,1.1951652475071781,Winter,1155,Teff
+Afar,Sandy,4.775081901942064,Summer,312,Sorghum
+Gambella,Sandy loam,8.381450221509438,Spring,858,Maize
+Afar,Sandy,5.434648519212008,Summer,185,Sorghum
+Afar,Sandy,2.2507231169694193,Spring,223,Sorghum
+Amhara,Sandy loam,3.2164294834566673,Summer,934,Teff
+Southern,Black soil,8.774766409612536,Spring,1444,Maize
+Oromia,Black soil,8.069878470280365,Summer,804,Teff
+Benishangul,Red soil,2.45871379933642,Summer,420,Barley
+Somali,Sandy,9.94596147878048,Spring,216,Sorghum
+Southern,Black soil,2.681597069387453,Summer,1302,Teff
+Tigray,Sandy loam,3.4195672503679457,Winter,747,Maize
+Sidama,Black soil,3.915110484605564,Winter,1303,Barley
+Amhara,Black soil,6.952066025978083,Winter,477,Barley
+Sidama,Black soil,6.387219326750349,Summer,1391,Maize
+Southern,Red soil,4.406081507521154,Spring,1388,Barley
+Afar,Sandy,5.4601585951395855,Winter,161,Sorghum
+Gambella,Black soil,5.977264474361681,Summer,900,Teff
+Benishangul,Red soil,4.693231523593385,Winter,617,Maize
+Gambella,Black soil,1.2950909047848311,Spring,480,Maize
+Southern,Volcanic,7.3728303355719405,Winter,1088,Teff
+Tigray,Sandy,2.8754979925465802,Spring,505,Maize
+Somali,Sandy,9.247772493532592,Spring,261,Sorghum
+Tigray,Clay loam,8.065973072846415,Summer,646,Wheat
+Oromia,Sandy loam,2.0739296815583304,Winter,846,Maize
+Somali,Sandy,7.270647755571384,Spring,180,Sorghum
+Afar,Sandy,5.82449941462428,Spring,235,Sorghum
+Benishangul,Volcanic,4.082775086598409,Winter,828,Barley
+Sidama,Volcanic,5.908997016539866,Spring,1196,Coffee
+Gambella,Sandy loam,7.36131233862958,Summer,758,Maize
+Southern,Volcanic,8.735084739904046,Spring,1207,Coffee
+Somali,Sandy,1.1709161913852408,Spring,306,Sorghum
+Benishangul,Sandy loam,1.4734962156809956,Spring,770,Maize
+Afar,Sandy,6.557618544155408,Spring,158,Sorghum
+Amhara,Sandy loam,3.1051925643999327,Summer,901,Barley
+Oromia,Volcanic,1.5351594419805998,Summer,856,Barley
+Amhara,Red soil,4.979052581353598,Spring,787,Barley
+Amhara,Volcanic,9.488953653604524,Summer,977,Barley
+Southern,Volcanic,2.3670627712602212,Winter,1343,Coffee
+Somali,Sandy,7.627100502898955,Spring,317,Sorghum
+Oromia,Red soil,9.85780582810923,Winter,529,Barley
+Gambella,Volcanic,6.121856729393826,Spring,899,Teff
+Southern,Red soil,1.9607156564359969,Summer,1048,Maize
+Southern,Red soil,5.900646356969371,Summer,1144,Teff
+Amhara,Volcanic,8.322461777522047,Winter,823,Maize
+Somali,Sandy,6.800349194063377,Spring,151,Sorghum
+Gambella,Sandy loam,0.5950557769456548,Summer,658,Maize
+Sidama,Black soil,5.017149151167311,Spring,1336,Barley
+Afar,Sandy,3.428503223522509,Summer,175,Sorghum
+Benishangul,Black soil,2.554522587269149,Summer,998,Teff
+Gambella,Sandy loam,1.8795775442107445,Summer,906,Maize
+Amhara,Red soil,9.01689031685453,Winter,510,Teff
+Somali,Sandy,1.1760035523528451,Spring,371,Sorghum
+Afar,Sandy,6.564336372475307,Summer,376,Sorghum
+Benishangul,Volcanic,5.950568527958675,Winter,872,Maize
+Sidama,Red soil,0.5791164184077651,Winter,1098,Barley
+Somali,Sandy,2.8034673782099513,Winter,365,Sorghum
+Benishangul,Black soil,3.7465051168217243,Spring,675,Maize
+Amhara,Sandy loam,4.046268085960886,Winter,969,Teff
+Benishangul,Sandy loam,4.685233812347432,Summer,824,Maize
+Somali,Sandy,4.352151488748548,Summer,297,Sorghum
+Benishangul,Sandy loam,9.546787827986702,Summer,468,Maize
+Amhara,Clay loam,2.789697027131523,Spring,801,Teff
+Benishangul,Black soil,6.661486356801626,Winter,433,Maize
+Sidama,Red soil,7.016866495158155,Winter,1235,Teff
+Oromia,Clay loam,2.923008048559314,Summer,541,Wheat
+Benishangul,Red soil,3.129043255158331,Winter,768,Teff
+Somali,Sandy,6.4304911508285665,Summer,325,Sorghum
+Gambella,Clay loam,8.182322282501097,Spring,835,Teff
+Benishangul,Volcanic,2.7705198021160395,Summer,763,Maize
+Somali,Sandy,0.8424302865001536,Winter,255,Sorghum
+Afar,Sandy,6.522550440178344,Winter,373,Sorghum
+Sidama,Black soil,7.7061984943553785,Spring,1331,Maize
+Tigray,Red soil,2.743847455362981,Summer,423,Maize
+Somali,Sandy,5.541620756735795,Winter,353,Sorghum
+Amhara,Clay loam,7.372975202496092,Spring,988,Teff
+Benishangul,Sandy,4.884592642991578,Winter,717,Barley
+Oromia,Sandy loam,9.85704557093458,Summer,446,Maize
+Tigray,Black soil,5.2178032235847525,Winter,729,Teff
+Benishangul,Red soil,9.514330754694255,Winter,749,Teff
+Amhara,Sandy loam,2.3981600274560035,Winter,478,Maize
+Tigray,Volcanic,4.514049855847222,Spring,782,Maize
+Somali,Sandy,7.358145421149363,Spring,259,Sorghum
+Gambella,Volcanic,0.6736045353212703,Spring,768,Teff
+Oromia,Red soil,1.4522932473461447,Spring,433,Maize
+Southern,Black soil,6.046046297606042,Winter,1381,Maize
+Southern,Red soil,5.018435633288495,Spring,1060,Teff
+Amhara,Clay loam,4.019804579878091,Summer,780,Maize
+Somali,Sandy,6.4612108096698755,Winter,352,Sorghum
+Benishangul,Clay loam,6.284803386440781,Spring,594,Wheat
+Amhara,Volcanic,3.470497704781326,Summer,827,Maize
+Oromia,Black soil,8.148773647661944,Winter,812,Teff
+Tigray,Clay loam,1.9930024107083841,Spring,769,Maize
+Oromia,Black soil,3.018816306078835,Spring,447,Maize
+Benishangul,Sandy loam,7.501951058227642,Spring,549,Maize
+Afar,Sandy,3.5609971891120256,Winter,353,Sorghum
+Tigray,Red soil,6.988888813743974,Spring,481,Barley
+Sidama,Black soil,9.612261250826284,Winter,1371,Teff
+Benishangul,Red soil,2.434210429601216,Summer,926,Barley
+Oromia,Sandy,5.0628151067586,Winter,976,Teff
+Afar,Sandy,5.88911191319385,Spring,346,Sorghum
+Gambella,Volcanic,5.244943314834594,Summer,889,Maize
+Afar,Sandy,7.259750517614892,Spring,352,Sorghum
+Afar,Sandy,5.406859415830096,Winter,172,Sorghum
+Tigray,Red soil,8.040801226319022,Summer,989,Barley
+Sidama,Red soil,2.3550332917800105,Summer,1256,Maize
+Somali,Sandy,3.3923045136643286,Spring,288,Sorghum
+Tigray,Clay loam,3.515298950560278,Summer,494,Wheat
+Benishangul,Red soil,3.7982961759491842,Winter,740,Teff
+Gambella,Sandy loam,7.152262187803013,Summer,418,Barley
+Benishangul,Black soil,3.540338649453171,Spring,893,Teff
+Sidama,Volcanic,4.180266798848753,Spring,1138,Coffee
+Gambella,Volcanic,0.5952721525665641,Spring,826,Barley
+Sidama,Black soil,4.838518708609187,Summer,1195,Maize
+Oromia,Black soil,5.352716625519689,Winter,438,Barley
+Gambella,Red soil,7.603028642272114,Summer,619,Teff
+Afar,Sandy,2.4895912995512095,Summer,374,Sorghum
+Benishangul,Sandy,6.227679771825063,Spring,743,Barley
+Oromia,Sandy loam,9.700451975039448,Winter,618,Maize
+Benishangul,Red soil,4.000925356385757,Summer,600,Teff
+Southern,Black soil,1.5010522388601804,Winter,1301,Teff
+Benishangul,Black soil,4.28388763400067,Summer,651,Teff
+Benishangul,Black soil,2.044611278107804,Winter,647,Barley
+Afar,Sandy,1.6869391650603867,Winter,156,Sorghum
+Somali,Sandy,6.985910037003955,Winter,348,Sorghum
+Benishangul,Sandy,5.102416517131971,Spring,1000,Barley
+Southern,Volcanic,5.486108895385866,Winter,1477,Coffee
+Benishangul,Black soil,1.2166067528519153,Winter,902,Teff
+Sidama,Volcanic,6.473989940294306,Spring,1204,Coffee
+Sidama,Black soil,8.715235737603132,Summer,1179,Barley
+Sidama,Volcanic,5.641285424498873,Winter,1081,Barley
+Afar,Sandy,7.234585364161243,Summer,248,Sorghum
+Afar,Sandy,2.769213883734681,Spring,311,Sorghum
+Gambella,Sandy,3.2421562667672914,Summer,426,Barley
+Gambella,Sandy,9.97444874968499,Spring,647,Teff
+Afar,Sandy,3.738773496736194,Summer,231,Sorghum
+Oromia,Clay loam,2.3374460352577655,Spring,998,Maize
+Tigray,Red soil,3.5660608587093763,Winter,545,Barley
+Sidama,Volcanic,4.8130112357567185,Spring,1126,Coffee
+Tigray,Black soil,9.869130814725798,Winter,457,Teff
+Oromia,Clay loam,6.751233436721552,Spring,653,Wheat
+Gambella,Red soil,2.281532472489678,Winter,782,Maize
+Amhara,Sandy loam,3.8675457970214646,Spring,771,Maize
+Afar,Sandy,6.617321255500695,Winter,250,Sorghum
+Gambella,Red soil,3.847982775879338,Summer,589,Teff
+Somali,Sandy,2.762532704127981,Spring,201,Sorghum
+Southern,Red soil,2.1363281121121322,Spring,1221,Maize
+Amhara,Red soil,2.311484768140606,Spring,644,Barley
+Gambella,Clay loam,8.494077962184178,Spring,496,Wheat
+Gambella,Volcanic,4.100700357012288,Spring,818,Barley
+Amhara,Sandy loam,0.7954954030291703,Spring,682,Maize
+Oromia,Red soil,9.111647520634708,Spring,665,Maize
+Afar,Sandy,2.7432440584392483,Summer,242,Sorghum
+Tigray,Clay loam,1.9774317351131923,Summer,764,Maize
+Southern,Red soil,0.518984705029087,Summer,1221,Teff
+Somali,Sandy,3.245176818333429,Spring,346,Sorghum
+Gambella,Volcanic,1.1697539604798783,Spring,854,Barley
+Amhara,Red soil,8.941008549049197,Spring,503,Maize
+Sidama,Red soil,4.358038930078147,Summer,1148,Teff
+Tigray,Sandy loam,6.3288246537073,Winter,450,Barley
+Oromia,Black soil,8.727562473759109,Spring,818,Teff
+Southern,Black soil,5.897159220808264,Summer,1006,Teff
+Amhara,Sandy,2.7853020805056627,Spring,780,Teff
+Oromia,Volcanic,5.460822018686591,Winter,718,Barley
+Gambella,Volcanic,2.5226988438710487,Spring,529,Barley
+Gambella,Volcanic,1.3391167406557376,Summer,860,Maize
+Somali,Sandy,7.19995610331716,Spring,241,Sorghum
+Sidama,Red soil,5.597212582309831,Spring,1216,Teff
+Somali,Sandy,5.519350073937151,Spring,332,Sorghum
+Benishangul,Black soil,1.4699021769349656,Summer,405,Teff
+Southern,Volcanic,6.355031497896549,Spring,1297,Coffee
+Amhara,Volcanic,0.7456971669852457,Winter,796,Barley
+Benishangul,Sandy,6.833853288002039,Summer,412,Maize
+Gambella,Black soil,3.196340154233855,Spring,783,Teff
+Amhara,Volcanic,4.136258697356993,Summer,591,Barley
+Amhara,Black soil,1.631410138685727,Spring,641,Barley
+Somali,Sandy,4.971029833436955,Spring,199,Sorghum
+Afar,Sandy,5.365943594083217,Spring,187,Sorghum
+Sidama,Black soil,5.893646105562064,Spring,1379,Maize
+Amhara,Sandy loam,8.602181845439075,Spring,825,Maize
+Gambella,Volcanic,1.295016769799574,Spring,913,Barley
+Benishangul,Volcanic,8.193132197551003,Spring,468,Barley
+Amhara,Sandy loam,8.844064810823575,Winter,681,Maize
+Southern,Red soil,8.64649642241269,Winter,1394,Teff
+Benishangul,Sandy,0.739320986450415,Summer,676,Barley
+Afar,Sandy,6.4427643588313925,Summer,388,Sorghum
+Afar,Sandy,6.965645316895612,Spring,236,Sorghum
+Southern,Red soil,3.3204370046510494,Summer,1288,Teff
+Benishangul,Clay loam,4.0546277113852085,Spring,819,Maize
+Oromia,Black soil,4.4651413466559475,Spring,775,Teff
+Amhara,Volcanic,8.23024072989645,Summer,544,Maize
+Southern,Red soil,7.653405434441316,Spring,1167,Maize
+Sidama,Volcanic,9.558009939725029,Spring,1170,Coffee
+Sidama,Red soil,4.303787504939628,Winter,1097,Teff
+Tigray,Red soil,2.9760788150001423,Winter,517,Maize

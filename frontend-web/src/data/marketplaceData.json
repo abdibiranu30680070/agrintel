@@ -1,0 +1,259 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Teff Farm Expansion Project",
+        "am": "የጤፍ እርሻ ማሳያ ማስፋፊያ ፕሮጀክት"
+      },
+      "region": {
+        "en": "Oromia Region",
+        "am": "ኦሮሚያ ክልል"
+      },
+      "risk": {
+        "en": "Low Risk",
+        "am": "ዝቅተኛ ስጋት"
+      },
+      "riskKey": "low",
+      "target": "$150,000",
+      "roi": "14.5% / yr",
+      "fundedPercent": 65,
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuD0P5uPeKoeaAL5TclK6yW9HIOt-6pmfkPegwAP2Rev4l7jdtvifZ2--WiiLfXx-BjUCrBwJpBPnJ8rS4DeAnZTXgkevm3I42PfZ53BOcTXahzHs-xTVY_y3KVPCVLUxXQ_68V-7LkGrVrUBJYGbKsCZrTctNgM_GlHATMSLSQPt98ejFJp0JyCawGrWeeUTkMPUHn64qCqsievTY0tuzFNIZW6X0yGuMk6rAjFHfsIWbsoTsvmPu_Y_Hx9tXG0XOY3mpgN8jEr6lk",
+      "ndvi": "0.78 (Optimal)",
+      "moisture": "38%",
+      "cropCycle": "Vegetative Stage"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Premium Coffee Export Co-op",
+        "am": "ከፍተኛ ጥራት ያለው የቡና ላኪዎች የህብረት ስራ ማህበር"
+      },
+      "region": {
+        "en": "Sidama Region",
+        "am": "ሲዳማ ክልል"
+      },
+      "risk": {
+        "en": "Medium Risk",
+        "am": "መካከለኛ ስጋት"
+      },
+      "riskKey": "medium",
+      "target": "$250,000",
+      "roi": "18.2% / yr",
+      "fundedPercent": 42,
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuAh7AfuJ0LtSNkV-ZXLHkvmDUffp5asMoZ0lJJNXCMiFTmboPRo-TGMj9JTExPNBrdJW0l2ZkGJn6-5ETwXFicOnkIcmFL-BIyHlA6b95tnwfKl9_pt1CYPjFbVAj3W3Js6-y1_BcneobGkslzDH7kqvMKjLjT8uuDwBRXWm1xAdYfS7Fwounc1in0XpmrdSTyv3m8ytV_tVKgEjUBIGp32SsDEZwJzq3QjLSY0FQVP1MSw1VqAUAUqxFechxL_wQ4gFc1RI147x8o",
+      "ndvi": "0.82 (Excellent)",
+      "moisture": "44%",
+      "cropCycle": "Cherry Ripening"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Sesame Irrigation Modernization",
+        "am": "የሰሊጥ መስኖ ማዘመኛ ፕሮጀክት"
+      },
+      "region": {
+        "en": "Amhara Region",
+        "am": "አማራ ክልል"
+      },
+      "risk": {
+        "en": "Low Risk",
+        "am": "ዝቅተኛ ስጋት"
+      },
+      "riskKey": "low",
+      "target": "$85,000",
+      "roi": "12.0% / yr",
+      "fundedPercent": 89,
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuBewp_STYi1NhhmH5JqTLeBuAv2EYBuyTldGZYL6_SJMxWTIc053LrCwnIEhMKpr-CX-LQm0elAeIbUcflqJOPX6TXPubdqdVkkExdWtog8HPtVLfT1LtVOwqd6FAQ47ETvUFhPWRV392eQE41tCjrPrVJnci6wHE-mK0Y6Lt41fuDxkSWbXiGbIPjLYzQmyJ_dBjoJRON6tGeUYfNe3dK5oIFFT64s1B1CTG1KlN8uN8DGReCUhZe7z9ju9lcGRv8QmclWny_Kw0g",
+      "ndvi": "0.69 (Good)",
+      "moisture": "31%",
+      "cropCycle": "Flowering Stage"
+    }
+  ],
+  "hero": {
+    "title": {
+      "en": "Invest in the Future of Ethiopian Agriculture.",
+      "am": "በኢትዮጵያ ግብርና የወደፊት ዕጣ ፈንታ ላይ ኢንቨስት ያድርጉ።"
+    },
+    "subtitle": {
+      "en": "Discover high-yield farming opportunities and connect directly with local producers. Leverage AI-driven insights to make informed investments in the region's most promising crops.",
+      "am": "ከፍተኛ ምርት የሚሰጡ የግብርና እድሎችን ያግኙ እና ከአካባቢው አምራቾች ጋር በቀጥታ ይገናኙ። በክልሉ በጣም ተስፋ ሰጪ ሰብሎች ላይ በመረጃ የተደገፈ ውሳኔዎችን ለማድረግ በ AI የተደገፉ ግንዛቤዎችን ይጠቀሙ።"
+    }
+  },
+  "filters": {
+    "searchPlaceholder": {
+      "en": "Search farms, crops, regions...",
+      "am": "እርሻዎችን፣ ሰብሎችን፣ ክልሎችን ይፈልጉ..."
+    },
+    "allRegions": {
+      "en": "Region",
+      "am": "ክልል"
+    },
+    "allRisks": {
+      "en": "Risk Level",
+      "am": "የስጋት ደረጃ"
+    },
+    "filterButton": {
+      "en": "Filter",
+      "am": "አጣራ"
+    }
+  },
+  "grid": {
+    "title": {
+      "en": "Featured Investments",
+      "am": "ተለይተው የቀረቡ የኢንቨስትመንት አማራጮች"
+    },
+    "subtitle": {
+      "en": "Curated agricultural projects with verified AI risk assessments.",
+      "am": "በ AI የስጋት ግምገማ የተረጋገጡ የተመረጡ የግብርና ፕሮጀክቶች።"
+    },
+    "viewAll": {
+      "en": "View all",
+      "am": "ሁሉንም አሳይ"
+    },
+    "projectsFound": {
+      "en": "projects found",
+      "am": "ፕሮጀክቶች ተገኝተዋል"
+    },
+    "noMatch": {
+      "en": "No opportunities match your filter settings.",
+      "am": "ምንም የተገኘ እድል የለም።"
+    }
+  },
+  "liveMarket": {
+    "title": {
+      "en": "Live Produce Market",
+      "am": "የቀጥታ ምርት ገበያ"
+    },
+    "subtitle": {
+      "en": "Wholesale listings with real-time market pricing algorithms ensuring fair trade.",
+      "am": "ፍትሃዊ ንግድን ከሚያረጋግጡ ትክክለኛ የገበያ ዋጋ ስልተ ቀመሮች ጋር የጅምላ ዝርዝሮች።"
+    },
+    "filters": {
+      "searchPlaceholder": {
+        "en": "Search produce name...",
+        "am": "የምርት ስም ይፈልጉ..."
+      },
+      "category": {
+        "en": "Category",
+        "am": "ምድብ"
+      },
+      "location": {
+        "en": "Location",
+        "am": "ቦታ"
+      }
+    },
+    "table": {
+      "headers": {
+        "produceName": { "en": "PRODUCE NAME", "am": "የምርት ስም" },
+        "categoryGrade": { "en": "CATEGORY/GRADE", "am": "ምድብ/ደረጃ" },
+        "location": { "en": "LOCATION", "am": "ቦታ" },
+        "currentPrice": { "en": "CURRENT PRICE", "am": "ወቅታዊ ዋጋ" },
+        "trend": { "en": "TREND", "am": "አዝማሚያ" },
+        "action": { "en": "ACTION", "am": "ድርጊት" }
+      },
+      "rows": [
+        {
+          "id": 1,
+          "name": { "en": "Bulk Premium White Teff", "am": "ፕሪሚየም ነጭ ጤፍ በጅምላ" },
+          "icon": "apps",
+          "category": "Wholesale • Grade A",
+          "location": "Bishoftu",
+          "price": "Birr 4,150/Qtl",
+          "trend": "+2.4%",
+          "trendUp": true
+        },
+        {
+          "id": 2,
+          "name": { "en": "Washed Sidama Coffee (G1)", "am": "የታጠበ የሲዳማ ቡና (G1)" },
+          "icon": "local_cafe",
+          "category": "Export • Grade 1",
+          "location": "Hawassa",
+          "price": "$5.25/kg",
+          "trend": "-0.8%",
+          "trendUp": false
+        },
+        {
+          "id": 3,
+          "name": { "en": "Red Kidney Beans", "am": "ቀይ የቦሎቄ ፍሬ" },
+          "icon": "spa",
+          "category": "Local • Premium",
+          "location": "Adama",
+          "price": "Birr 3,200/Qtl",
+          "trend": "+1.5%",
+          "trendUp": true
+        },
+        {
+          "id": 4,
+          "name": { "en": "Sesame Seed", "am": "የሰሊጥ ዘር" },
+          "icon": "local_florist",
+          "category": "Export • High Purity",
+          "location": "Humera",
+          "price": "$1,850/MT",
+          "trend": "+1.1%",
+          "trendUp": true
+        }
+      ],
+      "contactButton": {
+        "en": "Contact Seller",
+        "am": "ሻጩን ያነጋግሩ"
+      }
+    }
+  },
+  "modal": {
+    "header": {
+      "en": "Invest in Project",
+      "am": "ኢንቨስትመንት ማረጋገጫ"
+    },
+    "labels": {
+      "ndvi": {
+        "en": "NDVI Index",
+        "am": "NDVI አመልካች"
+      },
+      "moisture": {
+        "en": "Moisture",
+        "am": "እርጥበት"
+      },
+      "investmentAmount": {
+        "en": "Investment Amount (USD)",
+        "am": "የኢንቨስትመንት መጠን (ዶላር)"
+      },
+      "investmentAmountNote": {
+        "en": "Minimum investment: $100. Local farming index guarantees transparency.",
+        "am": "ዝቅተኛ የኢንቨስትመንት መጠን፡ 100 ዶላር። የአካባቢ ግብርና አመልካች ግልጽነትን ያረጋግጣል።"
+      },
+      "expectedReturn": {
+        "en": "Expected Annual Yield Return",
+        "am": "የሚጠበቀው ዓመታዊ የምርት ተመላሽ"
+      },
+      "fee": {
+        "en": "Cooperative Sourcing Fee (1.2%)",
+        "am": "የህብረት ሥራ ማህበር ክፍያ (1.2%)"
+      },
+      "totalPayout": {
+        "en": "Total Projected Payout (1 Year)",
+        "am": "ጠቅላላ የሚጠበቀው ክፍያ (ለ 1 ዓመት)"
+      }
+    },
+    "buttons": {
+      "cancel": {
+        "en": "Cancel",
+        "am": "ሰርዝ"
+      },
+      "confirm": {
+        "en": "Confirm Investment",
+        "am": "አረጋግጥ"
+      }
+    },
+    "success": {
+      "title": {
+        "en": "Investment Successful!",
+        "am": "ኢንቨስትመንት ተሳክቷል!"
+      },
+      "message": {
+        "en": "Your digital transaction has been verified. Smart crop shares has been updated on your dashboard.",
+        "am": "ግብይትዎ ተረጋግጧል። የአክሲዮን ድርሻዎ ዳሽቦርድ ላይ ተዘምኗል።"
+      }
+    }
+  }
+}

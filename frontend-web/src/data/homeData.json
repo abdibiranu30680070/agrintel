@@ -1,0 +1,115 @@
+{
+  "hero": {
+    "backgroundImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsL7gjHlGx-40Joc7LTIGPJ8KeDdrSSIPX4XaMKQIovZ4WispzrBF6sOdVGNGouLwWqwKxEetIUbArJ_kxEmyWVUKGQidSh1jwo80STXCIJNbnnj8NmTNAxPapfQqUs_JTFl_y9Q7ZPP8tqcOwygsQ0uicSUvq0_mIoA1CDTmLlJZB4AkVKlkPvjgvdeD73i6kqnC5i1TZEskhnZoPmu7tHMx-p5L56br-C9jFVuMRnKssp26exfb5g7QvWhU86SaSci2U-DfyWK54",
+    "badge": {
+      "en": "National Digital Platform for Ethiopian Agriculture",
+      "am": "ለኢትዮጵያ ግብርና ብሔራዊ የዲጂታል መድረክ"
+    },
+    "title": {
+      "en": "Smart Farming for a Better Future",
+      "am": "ብልጥ እርሻ ለተሻለ የወደፊት"
+    },
+    "subtitle": {
+      "en": "AI-driven insights for Ethiopian smallholders.",
+      "am": "በሰው ሰራሽ አስተውሎት የሚመራ መረጃ ለኢትዮጵያ አነስተኛ አርሶ አደሮች።"
+    },
+    "buttons": {
+      "scan": {
+        "en": "Scan Leaf Now",
+        "am": "ቅጠልን አሁኑኑ መርምር"
+      },
+      "mission": {
+        "en": "Explore Our Mission",
+        "am": "ተልዕኮአችንን ይወቁ"
+      }
+    }
+  },
+  "statistics": [
+    {
+      "value": "35%+",
+      "icon": "trending_up",
+      "title": {
+        "en": "Average Yield Increase",
+        "am": "አማካኝ የምርት እድገት"
+      },
+      "description": {
+        "en": "Demonstrated productivity gains across monitored cooperative unions.",
+        "am": "በክትትል ስር ባሉ የህብረት ስራ ማህበራት የታየ የምርት ምርታማነት ጭማሪ።"
+      }
+    },
+    {
+      "value": "12M+",
+      "icon": "map",
+      "title": {
+        "en": "Hectares Monitored",
+        "am": "ሄክታር መሬት ተቆጣጥሯል"
+      },
+      "description": {
+        "en": "Real-time crop health monitoring using multispectral satellite telemetry.",
+        "am": "ባለብዙ ስፔክትራል ሳተላይት መረጃዎችን በመጠቀም ቀጥታ የሰብል ጤና ክትትል።"
+      }
+    },
+    {
+      "value": "120K+",
+      "icon": "groups",
+      "title": {
+        "en": "Smallholders Enrolled",
+        "am": "አነስተኛ ገበሬዎች ተመዝግበዋል"
+      },
+      "description": {
+        "en": "Direct access to precision agronomy and localized climate updates.",
+        "am": "ቀጥተኛ የትክክለኛ ግብርና መረጃዎች እና የአየር ንብረት ዝመናዎች ማግኘት።"
+      }
+    }
+  ],
+  "featureHighlights": {
+    "badge": "AI-Powered Diagnostics",
+    "title": {
+      "en": "The Wisdom of the Earth, The Precision of the Cloud.",
+      "am": "የመሬት ጥበብ፣ የደመና ትክክለኛነት።"
+    },
+    "description": {
+      "en": "We integrate traditional farming wisdom inherited across generations with state-of-the-art machine learning models. AgriIntel detects crop stress early, recommends precise fertilizers, and projects national harvest outputs.",
+      "am": "በትውልዶች ውስጥ የተወረሰውን ባህላዊ የእርሻ ጥበብ ዘመናዊ የማሽን መማሪያ ሞዴሎች ጋር እናዋህዳለን። አግሪ ኢንቴል የሰብል ጭንቀትን አስቀድሞ ይለያል፣ ትክክለኛ ማዳበሪያዎችን ይጠቁማል፣ እንዲሁም ብሄራዊ የምርት ምርትን ይተነብያል።"
+    },
+    "button": {
+      "en": "Consult AI Agronomist",
+      "am": "የ AI አግሮኖሚስት ያማክሩ"
+    },
+    "cards": [
+      {
+        "icon": "camera_alt",
+        "title": {
+          "en": "Leaf Disease Diagnosis",
+          "am": "የቅጠል በሽታ ምርመራ"
+        },
+        "description": {
+          "en": "Upload photos of damaged leaves to identify diseases and receive instant treatment protocols.",
+          "am": "በሽታዎችን ለመለየት እና ፈጣን የህክምና ምክሮችን ለማግኘት የተጎዱ ቅጠሎችን ፎቶ ይስቀሉ ።"
+        }
+      },
+      {
+        "icon": "payments",
+        "title": {
+          "en": "Marketplace Access",
+          "am": "የገበያ ቦታ መዳረሻ"
+        },
+        "description": {
+          "en": "Connect directly with buyers, explore yield indices, and secure transparent contracts.",
+          "am": "ከገዢዎች ጋር በቀጥታ ይገናኙ፣ የምርት አመልካቾችን ይመርምሩ እና ግልጽ ውሎችን ያረጋግጡ።"
+        }
+      },
+      {
+        "icon": "satellite_alt",
+        "title": {
+          "en": "Satellite Yield Forecasting",
+          "am": "የሳተላይት ምርት ትንበያ"
+        },
+        "description": {
+          "en": "Monitor crop development indicators and moisture indexes at cooperative and regional scales.",
+          "am": "በህብረት ስራ ማህበራት እና በክልል ደረጃ የሰብል ልማት አመልካቾችን እና የእርጥበት መጠንን ይከታተሉ።"
+        }
+      }
+    ]
+  }
+}
