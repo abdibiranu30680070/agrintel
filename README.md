@@ -39,3 +39,4 @@ AI-Driven Precision Agriculture for Ethiopian Smallholders.
 - **AI**: Python, FastAPI, Scikit-learn, Pandas, Numpy.
 - **Database**: PostgreSQL (See `docs/db_schema.sql`).
 # agrintel
+# agrintel
